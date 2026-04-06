@@ -1,0 +1,11 @@
+{
+  "name": "happy-little-trends",
+  "summary": "Happy Little Trends is a static Bob Ross data explorer that turns FiveThirtyEight's episode-level motif tags into a local interactive visualization with season filters, motif comparisons, and an episode index.",
+  "category": "data-viz",
+  "tech_stack": ["HTML", "CSS", "JavaScript", "Node.js"],
+  "test_commands": ["npm test"],
+  "run_commands": ["python3 -m http.server 8000", "npm run build:data"],
+  "github_repo": "jamiegonzalez929/happy-little-trends",
+  "github_url": "https://github.com/jamiegonzalez929/happy-little-trends",
+  "pages_url": "https://jamiegonzalez929.github.io/happy-little-trends/"
+}
