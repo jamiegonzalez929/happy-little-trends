@@ -1,0 +1,11 @@
+{
+  "name": "happy-little-trends",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "test": "node --test",
+    "prepare": "node scripts/build-data.mjs"
+  }
+}

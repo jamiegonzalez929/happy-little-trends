@@ -1,0 +1,9666 @@
+{
+  "source": {
+    "name": "FiveThirtyEight Bob Ross dataset",
+    "url": "https://github.com/fivethirtyeight/data/tree/master/bob-ross"
+  },
+  "summary": {
+    "totalEpisodes": 403,
+    "totalSeasons": 31,
+    "trackedElements": 67,
+    "averageElementsPerEpisode": 7.99,
+    "mostCommonElement": {
+      "key": "TREE",
+      "label": "Tree",
+      "count": 361,
+      "share": 0.8958
+    },
+    "richestSeason": {
+      "season": 10,
+      "averageElements": 9.15
+    }
+  },
+  "seasons": [
+    {
+      "season": 1,
+      "episodeCount": 13,
+      "averageElements": 7.46,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "MOUNTAIN",
+          "label": "Mountain",
+          "count": 9
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 8
+        },
+        {
+          "key": "LAKE",
+          "label": "Lake",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "episodeCount": 13,
+      "averageElements": 8.77,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 13
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 13
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 9
+        },
+        {
+          "key": "CUMULUS",
+          "label": "Cumulus",
+          "count": 8
+        },
+        {
+          "key": "LAKE",
+          "label": "Lake",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "episodeCount": 13,
+      "averageElements": 8.08,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 10
+        },
+        {
+          "key": "LAKE",
+          "label": "Lake",
+          "count": 7
+        },
+        {
+          "key": "STRUCTURE",
+          "label": "Structure",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "episodeCount": 13,
+      "averageElements": 8.08,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 13
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 9
+        },
+        {
+          "key": "LAKE",
+          "label": "Lake",
+          "count": 8
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "episodeCount": 13,
+      "averageElements": 6.85,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 10
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 9
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 7
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "episodeCount": 13,
+      "averageElements": 7.46,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 9
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 8
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "episodeCount": 13,
+      "averageElements": 7.77,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 10
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 10
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 10
+        },
+        {
+          "key": "BUSHES",
+          "label": "Bushes",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "episodeCount": 13,
+      "averageElements": 8.92,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 9
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "episodeCount": 13,
+      "averageElements": 8.46,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 10
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 9
+        },
+        {
+          "key": "MOUNTAIN",
+          "label": "Mountain",
+          "count": 9
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 9
+        },
+        {
+          "key": "BUSHES",
+          "label": "Bushes",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "episodeCount": 13,
+      "averageElements": 9.15,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 10
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 9
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "episodeCount": 13,
+      "averageElements": 8.77,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 10
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "episodeCount": 13,
+      "averageElements": 9.08,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 10
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 9
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 8
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "season": 13,
+      "episodeCount": 13,
+      "averageElements": 9,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 13
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 13
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 8
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 8
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "season": 14,
+      "episodeCount": 13,
+      "averageElements": 8.92,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 9
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 15,
+      "episodeCount": 13,
+      "averageElements": 8.08,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 8
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 16,
+      "episodeCount": 13,
+      "averageElements": 7.62,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 10
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 10
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 7
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 6
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 17,
+      "episodeCount": 13,
+      "averageElements": 7.69,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 9
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 5
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "season": 18,
+      "episodeCount": 13,
+      "averageElements": 7.15,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "CLOUDS",
+          "label": "Clouds",
+          "count": 6
+        },
+        {
+          "key": "RIVER",
+          "label": "River",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 19,
+      "episodeCount": 13,
+      "averageElements": 8.15,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 8
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 6
+        },
+        {
+          "key": "RIVER",
+          "label": "River",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 20,
+      "episodeCount": 13,
+      "averageElements": 8.38,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 9
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 7
+        },
+        {
+          "key": "MOUNTAIN",
+          "label": "Mountain",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "season": 21,
+      "episodeCount": 13,
+      "averageElements": 7.38,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 10
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 8
+        },
+        {
+          "key": "MOUNTAIN",
+          "label": "Mountain",
+          "count": 6
+        },
+        {
+          "key": "SNOWY_MOUNTAIN",
+          "label": "Snowy Mountain",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "season": 22,
+      "episodeCount": 13,
+      "averageElements": 7.69,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "RIVER",
+          "label": "River",
+          "count": 9
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 7
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "season": 23,
+      "episodeCount": 13,
+      "averageElements": 8.15,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 10
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 9
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 7
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 24,
+      "episodeCount": 13,
+      "averageElements": 8.31,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 9
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 8
+        },
+        {
+          "key": "MOUNTAIN",
+          "label": "Mountain",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "season": 25,
+      "episodeCount": 13,
+      "averageElements": 6.69,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 9
+        },
+        {
+          "key": "LAKE",
+          "label": "Lake",
+          "count": 7
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 6
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 26,
+      "episodeCount": 13,
+      "averageElements": 7.15,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 7
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 6
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 27,
+      "episodeCount": 13,
+      "averageElements": 8.62,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 9
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 7
+        },
+        {
+          "key": "STRUCTURE",
+          "label": "Structure",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "season": 28,
+      "episodeCount": 13,
+      "averageElements": 7,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 11
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 7
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 6
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 29,
+      "episodeCount": 13,
+      "averageElements": 7.92,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 11
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 10
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 8
+        },
+        {
+          "key": "LAKE",
+          "label": "Lake",
+          "count": 7
+        },
+        {
+          "key": "BUSHES",
+          "label": "Bushes",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 30,
+      "episodeCount": 13,
+      "averageElements": 7.46,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 10
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 9
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 7
+        },
+        {
+          "key": "LAKE",
+          "label": "Lake",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "season": 31,
+      "episodeCount": 13,
+      "averageElements": 7.54,
+      "topElements": [
+        {
+          "key": "TREE",
+          "label": "Tree",
+          "count": 12
+        },
+        {
+          "key": "TREES",
+          "label": "Trees",
+          "count": 12
+        },
+        {
+          "key": "CONIFER",
+          "label": "Conifer",
+          "count": 8
+        },
+        {
+          "key": "DECIDUOUS",
+          "label": "Deciduous",
+          "count": 6
+        },
+        {
+          "key": "GRASS",
+          "label": "Grass",
+          "count": 6
+        }
+      ]
+    }
+  ],
+  "elementStats": [
+    {
+      "key": "TREE",
+      "label": "Tree",
+      "slug": "tree",
+      "count": 361,
+      "seasonCounts": {
+        "1": 12,
+        "2": 13,
+        "3": 12,
+        "4": 13,
+        "5": 10,
+        "6": 12,
+        "7": 12,
+        "8": 12,
+        "9": 10,
+        "10": 11,
+        "11": 12,
+        "12": 11,
+        "13": 13,
+        "14": 12,
+        "15": 11,
+        "16": 10,
+        "17": 12,
+        "18": 11,
+        "19": 12,
+        "20": 12,
+        "21": 11,
+        "22": 12,
+        "23": 12,
+        "24": 12,
+        "25": 11,
+        "26": 11,
+        "27": 12,
+        "28": 12,
+        "29": 11,
+        "30": 12,
+        "31": 12
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.8958,
+      "peakSeason": 2,
+      "peakCount": 13
+    },
+    {
+      "key": "TREES",
+      "label": "Trees",
+      "slug": "trees",
+      "count": 337,
+      "seasonCounts": {
+        "1": 12,
+        "2": 13,
+        "3": 12,
+        "4": 12,
+        "5": 9,
+        "6": 11,
+        "7": 10,
+        "8": 11,
+        "9": 9,
+        "10": 11,
+        "11": 12,
+        "12": 10,
+        "13": 13,
+        "14": 11,
+        "15": 11,
+        "16": 10,
+        "17": 9,
+        "18": 11,
+        "19": 12,
+        "20": 11,
+        "21": 10,
+        "22": 11,
+        "23": 9,
+        "24": 12,
+        "25": 9,
+        "26": 11,
+        "27": 12,
+        "28": 11,
+        "29": 10,
+        "30": 10,
+        "31": 12
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.8362,
+      "peakSeason": 2,
+      "peakCount": 13
+    },
+    {
+      "key": "DECIDUOUS",
+      "label": "Deciduous",
+      "slug": "deciduous",
+      "count": 227,
+      "seasonCounts": {
+        "1": 6,
+        "2": 9,
+        "3": 10,
+        "4": 6,
+        "5": 8,
+        "6": 7,
+        "7": 10,
+        "8": 8,
+        "9": 6,
+        "10": 10,
+        "11": 8,
+        "12": 7,
+        "13": 8,
+        "14": 8,
+        "15": 8,
+        "16": 6,
+        "17": 8,
+        "18": 8,
+        "19": 8,
+        "20": 7,
+        "21": 4,
+        "22": 5,
+        "23": 10,
+        "24": 9,
+        "25": 6,
+        "26": 6,
+        "27": 7,
+        "28": 7,
+        "29": 4,
+        "30": 7,
+        "31": 6
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.5633,
+      "peakSeason": 3,
+      "peakCount": 10
+    },
+    {
+      "key": "CONIFER",
+      "label": "Conifer",
+      "slug": "conifer",
+      "count": 212,
+      "seasonCounts": {
+        "1": 8,
+        "2": 7,
+        "3": 5,
+        "4": 9,
+        "5": 3,
+        "6": 7,
+        "7": 3,
+        "8": 9,
+        "9": 6,
+        "10": 7,
+        "11": 7,
+        "12": 9,
+        "13": 8,
+        "14": 7,
+        "15": 5,
+        "16": 6,
+        "17": 5,
+        "18": 3,
+        "19": 6,
+        "20": 9,
+        "21": 8,
+        "22": 7,
+        "23": 7,
+        "24": 8,
+        "25": 6,
+        "26": 7,
+        "27": 9,
+        "28": 6,
+        "29": 8,
+        "30": 9,
+        "31": 8
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.5261,
+      "peakSeason": 4,
+      "peakCount": 9
+    },
+    {
+      "key": "CLOUDS",
+      "label": "Clouds",
+      "slug": "clouds",
+      "count": 179,
+      "seasonCounts": {
+        "1": 4,
+        "2": 7,
+        "3": 5,
+        "4": 5,
+        "5": 6,
+        "6": 9,
+        "7": 10,
+        "8": 7,
+        "9": 9,
+        "10": 9,
+        "11": 10,
+        "12": 8,
+        "13": 8,
+        "14": 9,
+        "15": 8,
+        "16": 7,
+        "17": 2,
+        "18": 6,
+        "19": 4,
+        "20": 5,
+        "21": 4,
+        "22": 4,
+        "23": 3,
+        "24": 4,
+        "25": 4,
+        "26": 4,
+        "27": 3,
+        "28": 3,
+        "29": 3,
+        "30": 5,
+        "31": 4
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.4442,
+      "peakSeason": 7,
+      "peakCount": 10
+    },
+    {
+      "key": "MOUNTAIN",
+      "label": "Mountain",
+      "slug": "mountain",
+      "count": 160,
+      "seasonCounts": {
+        "1": 9,
+        "2": 6,
+        "3": 5,
+        "4": 5,
+        "5": 4,
+        "6": 4,
+        "7": 4,
+        "8": 5,
+        "9": 9,
+        "10": 5,
+        "11": 3,
+        "12": 8,
+        "13": 7,
+        "14": 7,
+        "15": 4,
+        "16": 3,
+        "17": 4,
+        "18": 4,
+        "19": 4,
+        "20": 7,
+        "21": 6,
+        "22": 4,
+        "23": 4,
+        "24": 5,
+        "25": 4,
+        "26": 5,
+        "27": 4,
+        "28": 5,
+        "29": 6,
+        "30": 5,
+        "31": 5
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.397,
+      "peakSeason": 1,
+      "peakCount": 9
+    },
+    {
+      "key": "LAKE",
+      "label": "Lake",
+      "slug": "lake",
+      "count": 143,
+      "seasonCounts": {
+        "1": 7,
+        "2": 8,
+        "3": 7,
+        "4": 8,
+        "5": 5,
+        "6": 4,
+        "7": 5,
+        "8": 4,
+        "9": 1,
+        "10": 5,
+        "11": 4,
+        "12": 2,
+        "13": 5,
+        "14": 4,
+        "15": 4,
+        "16": 4,
+        "17": 5,
+        "18": 4,
+        "19": 3,
+        "20": 3,
+        "21": 4,
+        "22": 1,
+        "23": 5,
+        "24": 4,
+        "25": 7,
+        "26": 5,
+        "27": 4,
+        "28": 4,
+        "29": 7,
+        "30": 6,
+        "31": 4
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.3548,
+      "peakSeason": 2,
+      "peakCount": 8
+    },
+    {
+      "key": "GRASS",
+      "label": "Grass",
+      "slug": "grass",
+      "count": 142,
+      "seasonCounts": {
+        "1": 2,
+        "2": 7,
+        "3": 1,
+        "4": 7,
+        "5": 7,
+        "6": 8,
+        "7": 2,
+        "8": 6,
+        "9": 3,
+        "10": 4,
+        "11": 4,
+        "12": 8,
+        "13": 6,
+        "14": 6,
+        "15": 7,
+        "16": 2,
+        "17": 5,
+        "18": 4,
+        "19": 5,
+        "20": 2,
+        "21": 1,
+        "22": 4,
+        "23": 6,
+        "24": 4,
+        "25": 1,
+        "26": 6,
+        "27": 3,
+        "28": 6,
+        "29": 5,
+        "30": 4,
+        "31": 6
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.3524,
+      "peakSeason": 6,
+      "peakCount": 8
+    },
+    {
+      "key": "RIVER",
+      "label": "River",
+      "slug": "river",
+      "count": 126,
+      "seasonCounts": {
+        "1": 2,
+        "2": 3,
+        "3": 2,
+        "4": 1,
+        "5": 3,
+        "6": 6,
+        "7": 5,
+        "8": 3,
+        "9": 5,
+        "10": 2,
+        "11": 4,
+        "12": 8,
+        "13": 7,
+        "14": 5,
+        "15": 2,
+        "16": 3,
+        "17": 5,
+        "18": 6,
+        "19": 6,
+        "20": 6,
+        "21": 4,
+        "22": 9,
+        "23": 5,
+        "24": 4,
+        "25": 3,
+        "26": 4,
+        "27": 3,
+        "28": 1,
+        "29": 2,
+        "30": 3,
+        "31": 4
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.3127,
+      "peakSeason": 22,
+      "peakCount": 9
+    },
+    {
+      "key": "BUSHES",
+      "label": "Bushes",
+      "slug": "bushes",
+      "count": 120,
+      "seasonCounts": {
+        "1": 5,
+        "2": 7,
+        "3": 4,
+        "4": 5,
+        "5": 2,
+        "6": 6,
+        "7": 5,
+        "8": 4,
+        "9": 7,
+        "10": 4,
+        "11": 6,
+        "12": 7,
+        "13": 5,
+        "14": 2,
+        "15": 2,
+        "16": 3,
+        "18": 4,
+        "19": 3,
+        "20": 2,
+        "21": 1,
+        "22": 3,
+        "23": 5,
+        "24": 3,
+        "25": 4,
+        "26": 3,
+        "27": 2,
+        "28": 4,
+        "29": 6,
+        "30": 4,
+        "31": 2
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.2978,
+      "peakSeason": 2,
+      "peakCount": 7
+    },
+    {
+      "key": "SNOWY_MOUNTAIN",
+      "label": "Snowy Mountain",
+      "slug": "snowy-mountain",
+      "count": 109,
+      "seasonCounts": {
+        "1": 6,
+        "2": 5,
+        "3": 1,
+        "4": 4,
+        "5": 3,
+        "6": 3,
+        "7": 4,
+        "8": 3,
+        "9": 7,
+        "10": 5,
+        "11": 3,
+        "12": 5,
+        "13": 4,
+        "14": 5,
+        "15": 2,
+        "16": 3,
+        "17": 2,
+        "18": 1,
+        "19": 1,
+        "20": 7,
+        "21": 5,
+        "22": 3,
+        "23": 2,
+        "24": 4,
+        "25": 3,
+        "26": 3,
+        "27": 2,
+        "28": 4,
+        "29": 4,
+        "30": 3,
+        "31": 2
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.2705,
+      "peakSeason": 9,
+      "peakCount": 7
+    },
+    {
+      "key": "MOUNTAINS",
+      "label": "Mountains",
+      "slug": "mountains",
+      "count": 99,
+      "seasonCounts": {
+        "1": 5,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 4,
+        "9": 5,
+        "10": 4,
+        "12": 4,
+        "13": 5,
+        "14": 5,
+        "15": 4,
+        "16": 1,
+        "17": 2,
+        "18": 4,
+        "19": 2,
+        "20": 5,
+        "21": 3,
+        "22": 4,
+        "23": 2,
+        "24": 2,
+        "25": 1,
+        "26": 1,
+        "27": 3,
+        "28": 2,
+        "29": 6,
+        "30": 2,
+        "31": 4
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.2457,
+      "peakSeason": 29,
+      "peakCount": 6
+    },
+    {
+      "key": "CUMULUS",
+      "label": "Cumulus",
+      "slug": "cumulus",
+      "count": 86,
+      "seasonCounts": {
+        "2": 8,
+        "3": 4,
+        "4": 4,
+        "5": 3,
+        "6": 2,
+        "7": 5,
+        "8": 1,
+        "9": 5,
+        "10": 4,
+        "11": 5,
+        "12": 5,
+        "13": 3,
+        "14": 5,
+        "15": 4,
+        "16": 4,
+        "17": 2,
+        "18": 3,
+        "19": 4,
+        "20": 3,
+        "21": 2,
+        "22": 2,
+        "23": 1,
+        "25": 1,
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "29": 1,
+        "30": 2
+      },
+      "firstSeason": 2,
+      "lastSeason": 30,
+      "share": 0.2134,
+      "peakSeason": 2,
+      "peakCount": 8
+    },
+    {
+      "key": "STRUCTURE",
+      "label": "Structure",
+      "slug": "structure",
+      "count": 85,
+      "seasonCounts": {
+        "1": 2,
+        "2": 1,
+        "3": 6,
+        "4": 3,
+        "5": 2,
+        "6": 1,
+        "7": 4,
+        "8": 6,
+        "9": 2,
+        "10": 4,
+        "11": 4,
+        "12": 2,
+        "13": 3,
+        "15": 5,
+        "16": 3,
+        "17": 4,
+        "18": 1,
+        "19": 3,
+        "20": 2,
+        "21": 2,
+        "22": 2,
+        "23": 2,
+        "24": 3,
+        "25": 1,
+        "26": 2,
+        "27": 5,
+        "28": 2,
+        "29": 3,
+        "30": 2,
+        "31": 3
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.2109,
+      "peakSeason": 3,
+      "peakCount": 6
+    },
+    {
+      "key": "ROCKS",
+      "label": "Rocks",
+      "slug": "rocks",
+      "count": 77,
+      "seasonCounts": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "4": 1,
+        "5": 3,
+        "6": 2,
+        "7": 1,
+        "8": 3,
+        "9": 3,
+        "10": 5,
+        "11": 4,
+        "12": 3,
+        "13": 3,
+        "14": 1,
+        "15": 3,
+        "16": 3,
+        "17": 3,
+        "18": 1,
+        "19": 3,
+        "20": 3,
+        "21": 3,
+        "22": 2,
+        "23": 3,
+        "24": 4,
+        "25": 2,
+        "26": 2,
+        "27": 4,
+        "28": 1,
+        "29": 1,
+        "30": 2,
+        "31": 4
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.1911,
+      "peakSeason": 10,
+      "peakCount": 5
+    },
+    {
+      "key": "SNOW",
+      "label": "Snow",
+      "slug": "snow",
+      "count": 75,
+      "seasonCounts": {
+        "1": 2,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 2,
+        "6": 1,
+        "7": 3,
+        "8": 4,
+        "9": 1,
+        "10": 3,
+        "11": 4,
+        "12": 1,
+        "13": 2,
+        "14": 2,
+        "15": 2,
+        "16": 3,
+        "17": 1,
+        "18": 2,
+        "19": 5,
+        "20": 3,
+        "21": 2,
+        "22": 2,
+        "23": 4,
+        "24": 4,
+        "25": 2,
+        "26": 3,
+        "27": 4,
+        "28": 2,
+        "29": 3,
+        "30": 1,
+        "31": 2
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.1861,
+      "peakSeason": 19,
+      "peakCount": 5
+    },
+    {
+      "key": "CABIN",
+      "label": "Cabin",
+      "slug": "cabin",
+      "count": 69,
+      "seasonCounts": {
+        "1": 3,
+        "2": 1,
+        "3": 3,
+        "4": 3,
+        "6": 2,
+        "7": 2,
+        "8": 6,
+        "9": 2,
+        "10": 3,
+        "11": 1,
+        "12": 2,
+        "13": 3,
+        "15": 4,
+        "16": 2,
+        "17": 2,
+        "18": 1,
+        "19": 1,
+        "20": 2,
+        "21": 2,
+        "22": 2,
+        "23": 3,
+        "24": 3,
+        "25": 1,
+        "26": 2,
+        "27": 4,
+        "28": 1,
+        "29": 3,
+        "30": 3,
+        "31": 2
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.1712,
+      "peakSeason": 8,
+      "peakCount": 6
+    },
+    {
+      "key": "WINTER",
+      "label": "Winter",
+      "slug": "winter",
+      "count": 69,
+      "seasonCounts": {
+        "1": 3,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "7": 2,
+        "8": 4,
+        "9": 1,
+        "10": 2,
+        "11": 3,
+        "12": 1,
+        "13": 2,
+        "14": 2,
+        "15": 3,
+        "16": 3,
+        "17": 1,
+        "18": 2,
+        "19": 5,
+        "20": 3,
+        "21": 2,
+        "22": 2,
+        "23": 3,
+        "24": 4,
+        "25": 2,
+        "26": 3,
+        "27": 4,
+        "28": 2,
+        "29": 3,
+        "30": 1,
+        "31": 2
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.1712,
+      "peakSeason": 19,
+      "peakCount": 5
+    },
+    {
+      "key": "FRAMED",
+      "label": "Framed",
+      "slug": "framed",
+      "count": 53,
+      "seasonCounts": {
+        "4": 1,
+        "8": 2,
+        "9": 1,
+        "10": 2,
+        "11": 2,
+        "12": 1,
+        "13": 2,
+        "14": 4,
+        "15": 2,
+        "16": 3,
+        "17": 3,
+        "18": 3,
+        "19": 2,
+        "20": 1,
+        "21": 2,
+        "22": 4,
+        "23": 3,
+        "24": 3,
+        "25": 2,
+        "26": 1,
+        "27": 3,
+        "29": 2,
+        "30": 2,
+        "31": 2
+      },
+      "firstSeason": 4,
+      "lastSeason": 31,
+      "share": 0.1315,
+      "peakSeason": 14,
+      "peakCount": 4
+    },
+    {
+      "key": "PATH",
+      "label": "Path",
+      "slug": "path",
+      "count": 49,
+      "seasonCounts": {
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "7": 1,
+        "8": 3,
+        "9": 2,
+        "10": 2,
+        "11": 2,
+        "12": 1,
+        "13": 2,
+        "14": 2,
+        "15": 3,
+        "16": 1,
+        "17": 2,
+        "18": 2,
+        "19": 1,
+        "20": 3,
+        "21": 2,
+        "22": 1,
+        "23": 2,
+        "24": 1,
+        "25": 1,
+        "26": 2,
+        "27": 1,
+        "28": 2,
+        "29": 2,
+        "30": 2,
+        "31": 3
+      },
+      "firstSeason": 3,
+      "lastSeason": 31,
+      "share": 0.1216,
+      "peakSeason": 8,
+      "peakCount": 3
+    },
+    {
+      "key": "SUN",
+      "label": "Sun",
+      "slug": "sun",
+      "count": 40,
+      "seasonCounts": {
+        "1": 1,
+        "2": 3,
+        "5": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 2,
+        "11": 1,
+        "12": 2,
+        "14": 1,
+        "15": 1,
+        "17": 1,
+        "18": 1,
+        "19": 2,
+        "20": 2,
+        "21": 2,
+        "22": 1,
+        "23": 2,
+        "24": 1,
+        "25": 1,
+        "26": 1,
+        "27": 5,
+        "28": 4,
+        "29": 1,
+        "30": 1
+      },
+      "firstSeason": 1,
+      "lastSeason": 30,
+      "share": 0.0993,
+      "peakSeason": 27,
+      "peakCount": 5
+    },
+    {
+      "key": "WATERFALL",
+      "label": "Waterfall",
+      "slug": "waterfall",
+      "count": 39,
+      "seasonCounts": {
+        "2": 2,
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "10": 1,
+        "11": 3,
+        "12": 1,
+        "14": 1,
+        "16": 2,
+        "17": 2,
+        "18": 2,
+        "19": 3,
+        "21": 2,
+        "22": 3,
+        "23": 3,
+        "24": 1,
+        "25": 3,
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "29": 1,
+        "30": 2
+      },
+      "firstSeason": 2,
+      "lastSeason": 30,
+      "share": 0.0968,
+      "peakSeason": 11,
+      "peakCount": 3
+    },
+    {
+      "key": "OVAL_FRAME",
+      "label": "Oval Frame",
+      "slug": "oval-frame",
+      "count": 38,
+      "seasonCounts": {
+        "9": 1,
+        "10": 1,
+        "11": 2,
+        "12": 1,
+        "13": 2,
+        "14": 3,
+        "15": 2,
+        "16": 2,
+        "17": 2,
+        "19": 2,
+        "20": 1,
+        "21": 2,
+        "22": 3,
+        "23": 3,
+        "24": 3,
+        "25": 2,
+        "26": 1,
+        "27": 3,
+        "29": 1,
+        "31": 1
+      },
+      "firstSeason": 9,
+      "lastSeason": 31,
+      "share": 0.0943,
+      "peakSeason": 14,
+      "peakCount": 3
+    },
+    {
+      "key": "OCEAN",
+      "label": "Ocean",
+      "slug": "ocean",
+      "count": 36,
+      "seasonCounts": {
+        "1": 1,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 2,
+        "9": 3,
+        "10": 2,
+        "11": 1,
+        "12": 2,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1,
+        "21": 2,
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1,
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "29": 1,
+        "30": 1,
+        "31": 1
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.0893,
+      "peakSeason": 9,
+      "peakCount": 3
+    },
+    {
+      "key": "WAVES",
+      "label": "Waves",
+      "slug": "waves",
+      "count": 34,
+      "seasonCounts": {
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "9": 3,
+        "10": 2,
+        "11": 1,
+        "12": 2,
+        "13": 1,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1,
+        "21": 2,
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "25": 1,
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "29": 1,
+        "30": 1,
+        "31": 1
+      },
+      "firstSeason": 2,
+      "lastSeason": 31,
+      "share": 0.0844,
+      "peakSeason": 9,
+      "peakCount": 3
+    },
+    {
+      "key": "CIRRUS",
+      "label": "Cirrus",
+      "slug": "cirrus",
+      "count": 28,
+      "seasonCounts": {
+        "1": 1,
+        "2": 2,
+        "3": 1,
+        "6": 3,
+        "7": 1,
+        "8": 1,
+        "9": 2,
+        "10": 1,
+        "11": 1,
+        "12": 2,
+        "13": 2,
+        "14": 3,
+        "15": 3,
+        "18": 2,
+        "20": 1,
+        "25": 1,
+        "30": 1
+      },
+      "firstSeason": 1,
+      "lastSeason": 30,
+      "share": 0.0695,
+      "peakSeason": 6,
+      "peakCount": 3
+    },
+    {
+      "key": "BEACH",
+      "label": "Beach",
+      "slug": "beach",
+      "count": 27,
+      "seasonCounts": {
+        "1": 1,
+        "4": 1,
+        "9": 3,
+        "10": 1,
+        "11": 1,
+        "12": 2,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "20": 1,
+        "21": 2,
+        "22": 1,
+        "23": 1,
+        "24": 1,
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "29": 1,
+        "30": 1,
+        "31": 1
+      },
+      "firstSeason": 1,
+      "lastSeason": 31,
+      "share": 0.067,
+      "peakSeason": 9,
+      "peakCount": 3
+    },
+    {
+      "key": "FENCE",
+      "label": "Fence",
+      "slug": "fence",
+      "count": 24,
+      "seasonCounts": {
+        "1": 2,
+        "3": 1,
+        "6": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1,
+        "11": 2,
+        "14": 1,
+        "15": 1,
+        "16": 1,
+        "17": 1,
+        "19": 2,
+        "20": 1,
+        "23": 1,
+        "24": 1,
+        "25": 2,
+        "26": 1,
+        "27": 2,
+        "28": 1
+      },
+      "firstSeason": 1,
+      "lastSeason": 28,
+      "share": 0.0596,
+      "peakSeason": 1,
+      "peakCount": 2
+    },
+    {
+      "key": "FOG",
+      "label": "Fog",
+      "slug": "fog",
+      "count": 23,
+      "seasonCounts": {
+        "6": 2,
+        "8": 1,
+        "9": 1,
+        "12": 1,
+        "14": 2,
+        "16": 2,
+        "17": 2,
+        "18": 1,
+        "20": 2,
+        "21": 1,
+        "25": 1,
+        "26": 1,
+        "27": 3,
+        "28": 2,
+        "31": 1
+      },
+      "firstSeason": 6,
+      "lastSeason": 31,
+      "share": 0.0571,
+      "peakSeason": 27,
+      "peakCount": 3
+    },
+    {
+      "key": "GUEST",
+      "label": "Guest",
+      "slug": "guest",
+      "count": 22,
+      "seasonCounts": {
+        "3": 1,
+        "4": 2,
+        "5": 4,
+        "7": 2,
+        "8": 1,
+        "10": 1,
+        "14": 1,
+        "16": 2,
+        "17": 2,
+        "24": 1,
+        "25": 1,
+        "27": 1,
+        "29": 1,
+        "30": 1,
+        "31": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 31,
+      "share": 0.0546,
+      "peakSeason": 5,
+      "peakCount": 4
+    },
+    {
+      "key": "HILLS",
+      "label": "Hills",
+      "slug": "hills",
+      "count": 18,
+      "seasonCounts": {
+        "3": 1,
+        "4": 1,
+        "6": 2,
+        "10": 2,
+        "13": 1,
+        "16": 1,
+        "17": 2,
+        "22": 1,
+        "23": 2,
+        "24": 1,
+        "26": 1,
+        "27": 1,
+        "28": 1,
+        "30": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 30,
+      "share": 0.0447,
+      "peakSeason": 6,
+      "peakCount": 2
+    },
+    {
+      "key": "BARN",
+      "label": "Barn",
+      "slug": "barn",
+      "count": 17,
+      "seasonCounts": {
+        "3": 1,
+        "5": 2,
+        "6": 1,
+        "7": 1,
+        "11": 3,
+        "15": 1,
+        "16": 1,
+        "19": 1,
+        "20": 1,
+        "22": 1,
+        "28": 2,
+        "29": 1,
+        "31": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 31,
+      "share": 0.0422,
+      "peakSeason": 11,
+      "peakCount": 3
+    },
+    {
+      "key": "FLOWERS",
+      "label": "Flowers",
+      "slug": "flowers",
+      "count": 12,
+      "seasonCounts": {
+        "5": 1,
+        "11": 1,
+        "16": 1,
+        "17": 3,
+        "21": 1,
+        "22": 2,
+        "26": 1,
+        "27": 1,
+        "29": 1
+      },
+      "firstSeason": 5,
+      "lastSeason": 29,
+      "share": 0.0298,
+      "peakSeason": 17,
+      "peakCount": 3
+    },
+    {
+      "key": "NIGHT",
+      "label": "Night",
+      "slug": "night",
+      "count": 11,
+      "seasonCounts": {
+        "1": 1,
+        "3": 2,
+        "8": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1,
+        "19": 1,
+        "26": 1,
+        "28": 1,
+        "29": 1
+      },
+      "firstSeason": 1,
+      "lastSeason": 29,
+      "share": 0.0273,
+      "peakSeason": 3,
+      "peakCount": 2
+    },
+    {
+      "key": "STEVE_ROSS",
+      "label": "Steve Ross",
+      "slug": "steve-ross",
+      "count": 11,
+      "seasonCounts": {
+        "3": 1,
+        "7": 1,
+        "8": 1,
+        "10": 1,
+        "14": 1,
+        "16": 1,
+        "17": 1,
+        "24": 1,
+        "25": 1,
+        "30": 1,
+        "31": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 31,
+      "share": 0.0273,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "PALM_TREES",
+      "label": "Palm Trees",
+      "slug": "palm-trees",
+      "count": 9,
+      "seasonCounts": {
+        "3": 1,
+        "12": 1,
+        "14": 1,
+        "16": 1,
+        "21": 1,
+        "25": 1,
+        "27": 1,
+        "29": 1,
+        "31": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 31,
+      "share": 0.0223,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "CLIFF",
+      "label": "Cliff",
+      "slug": "cliff",
+      "count": 8,
+      "seasonCounts": {
+        "3": 1,
+        "4": 1,
+        "9": 1,
+        "20": 1,
+        "21": 1,
+        "22": 1,
+        "23": 1,
+        "24": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 24,
+      "share": 0.0199,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "BRIDGE",
+      "label": "Bridge",
+      "slug": "bridge",
+      "count": 7,
+      "seasonCounts": {
+        "3": 1,
+        "10": 1,
+        "17": 1,
+        "19": 1,
+        "20": 1,
+        "24": 1,
+        "31": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 31,
+      "share": 0.0174,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "CACTUS",
+      "label": "Cactus",
+      "slug": "cactus",
+      "count": 4,
+      "seasonCounts": {
+        "8": 1,
+        "18": 1,
+        "21": 1,
+        "25": 1
+      },
+      "firstSeason": 8,
+      "lastSeason": 25,
+      "share": 0.0099,
+      "peakSeason": 8,
+      "peakCount": 1
+    },
+    {
+      "key": "MOON",
+      "label": "Moon",
+      "slug": "moon",
+      "count": 3,
+      "seasonCounts": {
+        "1": 1,
+        "3": 1,
+        "19": 1
+      },
+      "firstSeason": 1,
+      "lastSeason": 19,
+      "share": 0.0074,
+      "peakSeason": 1,
+      "peakCount": 1
+    },
+    {
+      "key": "PORTRAIT",
+      "label": "Portrait",
+      "slug": "portrait",
+      "count": 3,
+      "seasonCounts": {
+        "5": 1,
+        "7": 1,
+        "16": 1
+      },
+      "firstSeason": 5,
+      "lastSeason": 16,
+      "share": 0.0074,
+      "peakSeason": 5,
+      "peakCount": 1
+    },
+    {
+      "key": "AURORA_BOREALIS",
+      "label": "Aurora Borealis",
+      "slug": "aurora-borealis",
+      "count": 2,
+      "seasonCounts": {
+        "8": 1,
+        "29": 1
+      },
+      "firstSeason": 8,
+      "lastSeason": 29,
+      "share": 0.005,
+      "peakSeason": 8,
+      "peakCount": 1
+    },
+    {
+      "key": "BOAT",
+      "label": "Boat",
+      "slug": "boat",
+      "count": 2,
+      "seasonCounts": {
+        "7": 1,
+        "24": 1
+      },
+      "firstSeason": 7,
+      "lastSeason": 24,
+      "share": 0.005,
+      "peakSeason": 7,
+      "peakCount": 1
+    },
+    {
+      "key": "CIRCLE_FRAME",
+      "label": "Circle Frame",
+      "slug": "circle-frame",
+      "count": 2,
+      "seasonCounts": {
+        "4": 1,
+        "8": 1
+      },
+      "firstSeason": 4,
+      "lastSeason": 8,
+      "share": 0.005,
+      "peakSeason": 4,
+      "peakCount": 1
+    },
+    {
+      "key": "MILL",
+      "label": "Mill",
+      "slug": "mill",
+      "count": 2,
+      "seasonCounts": {
+        "3": 1,
+        "17": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 17,
+      "share": 0.005,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "APPLE_FRAME",
+      "label": "Apple Frame",
+      "slug": "apple-frame",
+      "count": 1,
+      "seasonCounts": {
+        "17": 1
+      },
+      "firstSeason": 17,
+      "lastSeason": 17,
+      "share": 0.0025,
+      "peakSeason": 17,
+      "peakCount": 1
+    },
+    {
+      "key": "BUILDING",
+      "label": "Building",
+      "slug": "building",
+      "count": 1,
+      "seasonCounts": {
+        "17": 1
+      },
+      "firstSeason": 17,
+      "lastSeason": 17,
+      "share": 0.0025,
+      "peakSeason": 17,
+      "peakCount": 1
+    },
+    {
+      "key": "DIANE_ANDRE",
+      "label": "Diane Andre",
+      "slug": "diane-andre",
+      "count": 1,
+      "seasonCounts": {
+        "4": 1
+      },
+      "firstSeason": 4,
+      "lastSeason": 4,
+      "share": 0.0025,
+      "peakSeason": 4,
+      "peakCount": 1
+    },
+    {
+      "key": "DOCK",
+      "label": "Dock",
+      "slug": "dock",
+      "count": 1,
+      "seasonCounts": {
+        "7": 1
+      },
+      "firstSeason": 7,
+      "lastSeason": 7,
+      "share": 0.0025,
+      "peakSeason": 7,
+      "peakCount": 1
+    },
+    {
+      "key": "DOUBLE_OVAL_FRAME",
+      "label": "Double Oval Frame",
+      "slug": "double-oval-frame",
+      "count": 1,
+      "seasonCounts": {
+        "16": 1
+      },
+      "firstSeason": 16,
+      "lastSeason": 16,
+      "share": 0.0025,
+      "peakSeason": 16,
+      "peakCount": 1
+    },
+    {
+      "key": "FARM",
+      "label": "Farm",
+      "slug": "farm",
+      "count": 1,
+      "seasonCounts": {
+        "27": 1
+      },
+      "firstSeason": 27,
+      "lastSeason": 27,
+      "share": 0.0025,
+      "peakSeason": 27,
+      "peakCount": 1
+    },
+    {
+      "key": "FIRE",
+      "label": "Fire",
+      "slug": "fire",
+      "count": 1,
+      "seasonCounts": {
+        "3": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 3,
+      "share": 0.0025,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "FLORIDA_FRAME",
+      "label": "Florida Frame",
+      "slug": "florida-frame",
+      "count": 1,
+      "seasonCounts": {
+        "21": 1
+      },
+      "firstSeason": 21,
+      "lastSeason": 21,
+      "share": 0.0025,
+      "peakSeason": 21,
+      "peakCount": 1
+    },
+    {
+      "key": "HALF_CIRCLE_FRAME",
+      "label": "Half Circle Frame",
+      "slug": "half-circle-frame",
+      "count": 1,
+      "seasonCounts": {
+        "18": 1
+      },
+      "firstSeason": 18,
+      "lastSeason": 18,
+      "share": 0.0025,
+      "peakSeason": 18,
+      "peakCount": 1
+    },
+    {
+      "key": "HALF_OVAL_FRAME",
+      "label": "Half Oval Frame",
+      "slug": "half-oval-frame",
+      "count": 1,
+      "seasonCounts": {
+        "18": 1
+      },
+      "firstSeason": 18,
+      "lastSeason": 18,
+      "share": 0.0025,
+      "peakSeason": 18,
+      "peakCount": 1
+    },
+    {
+      "key": "LIGHTHOUSE",
+      "label": "Lighthouse",
+      "slug": "lighthouse",
+      "count": 1,
+      "seasonCounts": {
+        "3": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 3,
+      "share": 0.0025,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "PERSON",
+      "label": "Person",
+      "slug": "person",
+      "count": 1,
+      "seasonCounts": {
+        "3": 1
+      },
+      "firstSeason": 3,
+      "lastSeason": 3,
+      "share": 0.0025,
+      "peakSeason": 3,
+      "peakCount": 1
+    },
+    {
+      "key": "RECTANGLE_3D_FRAME",
+      "label": "Rectangle 3d Frame",
+      "slug": "rectangle-3d-frame",
+      "count": 1,
+      "seasonCounts": {
+        "22": 1
+      },
+      "firstSeason": 22,
+      "lastSeason": 22,
+      "share": 0.0025,
+      "peakSeason": 22,
+      "peakCount": 1
+    },
+    {
+      "key": "RECTANGULAR_FRAME",
+      "label": "Rectangular Frame",
+      "slug": "rectangular-frame",
+      "count": 1,
+      "seasonCounts": {
+        "8": 1
+      },
+      "firstSeason": 8,
+      "lastSeason": 8,
+      "share": 0.0025,
+      "peakSeason": 8,
+      "peakCount": 1
+    },
+    {
+      "key": "SEASHELL_FRAME",
+      "label": "Seashell Frame",
+      "slug": "seashell-frame",
+      "count": 1,
+      "seasonCounts": {
+        "31": 1
+      },
+      "firstSeason": 31,
+      "lastSeason": 31,
+      "share": 0.0025,
+      "peakSeason": 31,
+      "peakCount": 1
+    },
+    {
+      "key": "SPLIT_FRAME",
+      "label": "Split Frame",
+      "slug": "split-frame",
+      "count": 1,
+      "seasonCounts": {
+        "29": 1
+      },
+      "firstSeason": 29,
+      "lastSeason": 29,
+      "share": 0.0025,
+      "peakSeason": 29,
+      "peakCount": 1
+    },
+    {
+      "key": "TOMB_FRAME",
+      "label": "Tomb Frame",
+      "slug": "tomb-frame",
+      "count": 1,
+      "seasonCounts": {
+        "14": 1
+      },
+      "firstSeason": 14,
+      "lastSeason": 14,
+      "share": 0.0025,
+      "peakSeason": 14,
+      "peakCount": 1
+    },
+    {
+      "key": "TRIPLE_FRAME",
+      "label": "Triple Frame",
+      "slug": "triple-frame",
+      "count": 1,
+      "seasonCounts": {
+        "10": 1
+      },
+      "firstSeason": 10,
+      "lastSeason": 10,
+      "share": 0.0025,
+      "peakSeason": 10,
+      "peakCount": 1
+    },
+    {
+      "key": "WINDMILL",
+      "label": "Windmill",
+      "slug": "windmill",
+      "count": 1,
+      "seasonCounts": {
+        "5": 1
+      },
+      "firstSeason": 5,
+      "lastSeason": 5,
+      "share": 0.0025,
+      "peakSeason": 5,
+      "peakCount": 1
+    },
+    {
+      "key": "WINDOW_FRAME",
+      "label": "Window Frame",
+      "slug": "window-frame",
+      "count": 1,
+      "seasonCounts": {
+        "30": 1
+      },
+      "firstSeason": 30,
+      "lastSeason": 30,
+      "share": 0.0025,
+      "peakSeason": 30,
+      "peakCount": 1
+    },
+    {
+      "key": "WOOD_FRAMED",
+      "label": "Wood Framed",
+      "slug": "wood-framed",
+      "count": 1,
+      "seasonCounts": {
+        "30": 1
+      },
+      "firstSeason": 30,
+      "lastSeason": 30,
+      "share": 0.0025,
+      "peakSeason": 30,
+      "peakCount": 1
+    },
+    {
+      "key": "LAKES",
+      "label": "Lakes",
+      "slug": "lakes",
+      "count": 0,
+      "seasonCounts": {},
+      "firstSeason": null,
+      "lastSeason": 0,
+      "share": 0,
+      "peakSeason": null,
+      "peakCount": 0
+    }
+  ],
+  "episodes": [
+    {
+      "id": "S01E01",
+      "season": 1,
+      "episodeNumber": 1,
+      "title": "A WALK IN THE WOODS",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S01E02",
+      "season": 1,
+      "episodeNumber": 2,
+      "title": "MT. MCKINLEY",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "MOUNTAIN",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S01E03",
+      "season": 1,
+      "episodeNumber": 3,
+      "title": "EBONY SUNSET",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "FENCE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "STRUCTURE",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S01E04",
+      "season": 1,
+      "episodeNumber": 4,
+      "title": "WINTER MIST",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S01E05",
+      "season": 1,
+      "episodeNumber": 5,
+      "title": "QUIET STREAM",
+      "elements": [
+        "DECIDUOUS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S01E06",
+      "season": 1,
+      "episodeNumber": 6,
+      "title": "WINTER MOON",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "LAKE",
+        "MOON",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "NIGHT",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 13
+    },
+    {
+      "id": "S01E07",
+      "season": 1,
+      "episodeNumber": 7,
+      "title": "AUTUMN MOUNTAINS",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S01E08",
+      "season": 1,
+      "episodeNumber": 8,
+      "title": "PEACEFUL VALLEY",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S01E09",
+      "season": 1,
+      "episodeNumber": 9,
+      "title": "SEASCAPE",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "FENCE",
+        "OCEAN"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S01E10",
+      "season": 1,
+      "episodeNumber": 10,
+      "title": "MOUNTAIN LAKE",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S01E11",
+      "season": 1,
+      "episodeNumber": 11,
+      "title": "WINTER GLOW",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S01E12",
+      "season": 1,
+      "episodeNumber": 12,
+      "title": "SNOWFALL",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S01E13",
+      "season": 1,
+      "episodeNumber": 13,
+      "title": "FINAL REFLECTIONS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S02E01",
+      "season": 2,
+      "episodeNumber": 1,
+      "title": "MEADOW LAKE",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S02E02",
+      "season": 2,
+      "episodeNumber": 2,
+      "title": "WINTER SUN",
+      "elements": [
+        "CONIFER",
+        "LAKE",
+        "SNOW",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S02E03",
+      "season": 2,
+      "episodeNumber": 3,
+      "title": "EBONY SEA",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "OCEAN",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WAVES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S02E04",
+      "season": 2,
+      "episodeNumber": 4,
+      "title": "SHADES OF GREY",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 14
+    },
+    {
+      "id": "S02E05",
+      "season": 2,
+      "episodeNumber": 5,
+      "title": "AUTUMN SPLENDOR",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S02E06",
+      "season": 2,
+      "episodeNumber": 6,
+      "title": "BLACK RIVER",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S02E07",
+      "season": 2,
+      "episodeNumber": 7,
+      "title": "BROWN MOUNTAIN",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S02E08",
+      "season": 2,
+      "episodeNumber": 8,
+      "title": "REFLECTIONS",
+      "elements": [
+        "BUSHES",
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S02E09",
+      "season": 2,
+      "episodeNumber": 9,
+      "title": "BLACK & WHITE SEASCAPE",
+      "elements": [
+        "CIRRUS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "OCEAN",
+        "ROCKS",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WAVES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S02E10",
+      "season": 2,
+      "episodeNumber": 10,
+      "title": "LAZY RIVER",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S02E11",
+      "season": 2,
+      "episodeNumber": 11,
+      "title": "BLACK WATERFALL",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S02E12",
+      "season": 2,
+      "episodeNumber": 12,
+      "title": "MOUNTAIN WATERFALL",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S02E13",
+      "season": 2,
+      "episodeNumber": 13,
+      "title": "FINAL GRACE",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S03E01",
+      "season": 3,
+      "episodeNumber": 1,
+      "title": "MOUNTAIN RETREAT",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S03E02",
+      "season": 3,
+      "episodeNumber": 2,
+      "title": "BLUE MOON",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "MOON",
+        "NIGHT",
+        "OCEAN",
+        "PALM_TREES",
+        "TREE",
+        "TREES",
+        "WAVES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S03E03",
+      "season": 3,
+      "episodeNumber": 3,
+      "title": "BUBBLING STREAM",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S03E04",
+      "season": 3,
+      "episodeNumber": 4,
+      "title": "WINTER NIGHT",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S03E05",
+      "season": 3,
+      "episodeNumber": 5,
+      "title": "DISTANT HILLS",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "HILLS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S03E06",
+      "season": 3,
+      "episodeNumber": 6,
+      "title": "COVERED BRIDGE",
+      "elements": [
+        "BRIDGE",
+        "DECIDUOUS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S03E07",
+      "season": 3,
+      "episodeNumber": 7,
+      "title": "QUIET INLET",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S03E08",
+      "season": 3,
+      "episodeNumber": 8,
+      "title": "NIGHT LIGHT",
+      "elements": [
+        "CLIFF",
+        "CLOUDS",
+        "CUMULUS",
+        "LIGHTHOUSE",
+        "NIGHT",
+        "OCEAN",
+        "STRUCTURE",
+        "WAVES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S03E09",
+      "season": 3,
+      "episodeNumber": 9,
+      "title": "THE OLD MILL",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "MILL",
+        "RIVER",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S03E10",
+      "season": 3,
+      "episodeNumber": 10,
+      "title": "CAMPFIRE",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "FIRE",
+        "LAKE",
+        "PERSON",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S03E11",
+      "season": 3,
+      "episodeNumber": 11,
+      "title": "RUSTIC BARN",
+      "elements": [
+        "BARN",
+        "DECIDUOUS",
+        "FENCE",
+        "LAKE",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S03E12",
+      "season": 3,
+      "episodeNumber": 12,
+      "title": "HIDDEN LAKE",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S03E13",
+      "season": 3,
+      "episodeNumber": 13,
+      "title": "PEACEFUL WATERS",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GUEST",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S04E01",
+      "season": 4,
+      "episodeNumber": 1,
+      "title": "PURPLE SPLENDOR",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "LAKE",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S04E02",
+      "season": 4,
+      "episodeNumber": 2,
+      "title": "TRANQUIL VALLEY",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S04E03",
+      "season": 4,
+      "episodeNumber": 3,
+      "title": "MAJESTIC MOUNTAINS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S04E04",
+      "season": 4,
+      "episodeNumber": 4,
+      "title": "WINTER SAWSCAPE",
+      "elements": [
+        "CABIN",
+        "CIRCLE_FRAME",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FRAMED",
+        "GUEST",
+        "LAKE",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 14
+    },
+    {
+      "id": "S04E05",
+      "season": 4,
+      "episodeNumber": 5,
+      "title": "EVENING SEASCAPE",
+      "elements": [
+        "BEACH",
+        "CLIFF",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "OCEAN",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WAVES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S04E06",
+      "season": 4,
+      "episodeNumber": 6,
+      "title": "WARM SUMMER DAY",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S04E07",
+      "season": 4,
+      "episodeNumber": 7,
+      "title": "CABIN IN THE WOODS",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S04E08",
+      "season": 4,
+      "episodeNumber": 8,
+      "title": "WETLANDS",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S04E09",
+      "season": 4,
+      "episodeNumber": 9,
+      "title": "COOL WATERS",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S04E10",
+      "season": 4,
+      "episodeNumber": 10,
+      "title": "QUIET WOODS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S04E11",
+      "season": 4,
+      "episodeNumber": 11,
+      "title": "NORTHWEST MAJESTY",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DIANE_ANDRE",
+        "GUEST",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S04E12",
+      "season": 4,
+      "episodeNumber": 12,
+      "title": "AUTUMN DAYS",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "HILLS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S04E13",
+      "season": 4,
+      "episodeNumber": 13,
+      "title": "MOUNTAIN CHALLENGE",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S05E01",
+      "season": 5,
+      "episodeNumber": 1,
+      "title": "MOUNTAIN WATERFALL",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S05E02",
+      "season": 5,
+      "episodeNumber": 2,
+      "title": "TWILIGHT MEADOW",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S05E03",
+      "season": 5,
+      "episodeNumber": 3,
+      "title": "MOUNTAIN BLOSSOMS",
+      "elements": [
+        "CONIFER",
+        "FLOWERS",
+        "GUEST",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S05E04",
+      "season": 5,
+      "episodeNumber": 4,
+      "title": "WINTER STILLNESS",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S05E05",
+      "season": 5,
+      "episodeNumber": 5,
+      "title": "QUIET POND",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S05E06",
+      "season": 5,
+      "episodeNumber": 6,
+      "title": "OCEAN SUNRISE",
+      "elements": [
+        "CLOUDS",
+        "GRASS",
+        "GUEST",
+        "OCEAN",
+        "SUN"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S05E07",
+      "season": 5,
+      "episodeNumber": 7,
+      "title": "BUBBLING BROOK",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S05E08",
+      "season": 5,
+      "episodeNumber": 8,
+      "title": "ARIZONA SPLENDOR",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S05E09",
+      "season": 5,
+      "episodeNumber": 9,
+      "title": "ANATOMY OF A WAVE",
+      "elements": [
+        "GUEST",
+        "OCEAN",
+        "WAVES"
+      ],
+      "elementCount": 3
+    },
+    {
+      "id": "S05E10",
+      "season": 5,
+      "episodeNumber": 10,
+      "title": "THE WINDMILL",
+      "elements": [
+        "BARN",
+        "CLOUDS",
+        "DECIDUOUS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "WINDMILL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S05E11",
+      "season": 5,
+      "episodeNumber": 11,
+      "title": "AUTUMN GLORY",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S05E12",
+      "season": 5,
+      "episodeNumber": 12,
+      "title": "INDIAN GIRL",
+      "elements": [
+        "GUEST",
+        "PORTRAIT"
+      ],
+      "elementCount": 2
+    },
+    {
+      "id": "S05E13",
+      "season": 5,
+      "episodeNumber": 13,
+      "title": "MEADOW STREAM",
+      "elements": [
+        "BARN",
+        "CLOUDS",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S06E01",
+      "season": 6,
+      "episodeNumber": 1,
+      "title": "BLUE RIVER",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "HILLS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S06E02",
+      "season": 6,
+      "episodeNumber": 2,
+      "title": "NATURE'S EDGE",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "DECIDUOUS",
+        "FOG",
+        "GRASS",
+        "LAKE",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S06E03",
+      "season": 6,
+      "episodeNumber": 3,
+      "title": "MORNING MIST",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "FOG",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S06E04",
+      "season": 6,
+      "episodeNumber": 4,
+      "title": "WHISPERING STREAM",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S06E05",
+      "season": 6,
+      "episodeNumber": 5,
+      "title": "SECLUDED FOREST",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S06E06",
+      "season": 6,
+      "episodeNumber": 6,
+      "title": "SNOW TRAIL",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "SNOW",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S06E07",
+      "season": 6,
+      "episodeNumber": 7,
+      "title": "ARCTIC BEAUTY",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S06E08",
+      "season": 6,
+      "episodeNumber": 8,
+      "title": "HORIZONS WEST",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S06E09",
+      "season": 6,
+      "episodeNumber": 9,
+      "title": "HIGH CHATEAU",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S06E10",
+      "season": 6,
+      "episodeNumber": 10,
+      "title": "COUNTRY LIFE",
+      "elements": [
+        "BARN",
+        "CIRRUS",
+        "CLOUDS",
+        "FENCE",
+        "GRASS"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S06E11",
+      "season": 6,
+      "episodeNumber": 11,
+      "title": "WESTERN EXPANSE",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "TREE"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S06E12",
+      "season": 6,
+      "episodeNumber": 12,
+      "title": "MARSHLANDS",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "DECIDUOUS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S06E13",
+      "season": 6,
+      "episodeNumber": 13,
+      "title": "BLAZE OF COLOR",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "HILLS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S07E01",
+      "season": 7,
+      "episodeNumber": 1,
+      "title": "WINTER CABIN",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "DECIDUOUS",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "WINTER"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S07E02",
+      "season": 7,
+      "episodeNumber": 2,
+      "title": "SECLUDED LAKE",
+      "elements": [
+        "CLOUDS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S07E03",
+      "season": 7,
+      "episodeNumber": 3,
+      "title": "EVERGREENS AT SUNSET",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "RIVER",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S07E04",
+      "season": 7,
+      "episodeNumber": 4,
+      "title": "MOUNTAIN CABIN",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S07E05",
+      "season": 7,
+      "episodeNumber": 5,
+      "title": "PORTRAIT OF SALLY",
+      "elements": [
+        "GUEST",
+        "PORTRAIT"
+      ],
+      "elementCount": 2
+    },
+    {
+      "id": "S07E06",
+      "season": 7,
+      "episodeNumber": 6,
+      "title": "MISTY WATERFALL",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "LAKE",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S07E07",
+      "season": 7,
+      "episodeNumber": 7,
+      "title": "BARN AT SUNSET",
+      "elements": [
+        "BARN",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "PATH",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S07E08",
+      "season": 7,
+      "episodeNumber": 8,
+      "title": "MOUNTAIN SPLENDOR",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S07E09",
+      "season": 7,
+      "episodeNumber": 9,
+      "title": "LAKE BY MOUNTAIN",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GUEST",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S07E10",
+      "season": 7,
+      "episodeNumber": 10,
+      "title": "MOUNTAIN GLORY",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S07E11",
+      "season": 7,
+      "episodeNumber": 11,
+      "title": "GREY WINTER",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "LAKE",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S07E12",
+      "season": 7,
+      "episodeNumber": 12,
+      "title": "DOCK SCENE",
+      "elements": [
+        "BOAT",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "DOCK",
+        "LAKE",
+        "STRUCTURE",
+        "TREE"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S07E13",
+      "season": 7,
+      "episodeNumber": 13,
+      "title": "DARK WATERFALL",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S08E01",
+      "season": 8,
+      "episodeNumber": 1,
+      "title": "MISTY ROLLING HILLS",
+      "elements": [
+        "CONIFER",
+        "FOG",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S08E02",
+      "season": 8,
+      "episodeNumber": 2,
+      "title": "LAKESIDE CABIN",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CIRCLE_FRAME",
+        "CLOUDS",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "LAKE",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S08E03",
+      "season": 8,
+      "episodeNumber": 3,
+      "title": "WARM WINTER DAY",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "GRASS",
+        "SNOW",
+        "STRUCTURE",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S08E04",
+      "season": 8,
+      "episodeNumber": 4,
+      "title": "WATERSIDE WAY",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "PATH",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S08E05",
+      "season": 8,
+      "episodeNumber": 5,
+      "title": "HUNTER'S HAVEN",
+      "elements": [
+        "CABIN",
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "PATH",
+        "RIVER",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S08E06",
+      "season": 8,
+      "episodeNumber": 6,
+      "title": "BUBBLING MOUNTAIN BROOK",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S08E07",
+      "season": 8,
+      "episodeNumber": 7,
+      "title": "WINTER HIDEAWAY",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FENCE",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S08E08",
+      "season": 8,
+      "episodeNumber": 8,
+      "title": "FOOT OF THE MOUNTAIN",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S08E09",
+      "season": 8,
+      "episodeNumber": 9,
+      "title": "MAJESTIC PINE",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "FRAMED",
+        "RECTANGULAR_FRAME",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S08E10",
+      "season": 8,
+      "episodeNumber": 10,
+      "title": "CACTUS AT SUNSET",
+      "elements": [
+        "CACTUS",
+        "CLOUDS",
+        "PATH",
+        "ROCKS"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S08E11",
+      "season": 8,
+      "episodeNumber": 11,
+      "title": "MOUNTAIN RANGE",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GUEST",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S08E12",
+      "season": 8,
+      "episodeNumber": 12,
+      "title": "LONELY RETREAT",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "WINTER"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S08E13",
+      "season": 8,
+      "episodeNumber": 13,
+      "title": "NORTHERN LIGHTS",
+      "elements": [
+        "AURORA_BOREALIS",
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "NIGHT",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 13
+    },
+    {
+      "id": "S09E01",
+      "season": 9,
+      "episodeNumber": 1,
+      "title": "WINTER EVERGREENS",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S09E02",
+      "season": 9,
+      "episodeNumber": 2,
+      "title": "SURF'S UP",
+      "elements": [
+        "BEACH",
+        "CLIFF",
+        "CLOUDS",
+        "CUMULUS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S09E03",
+      "season": 9,
+      "episodeNumber": 3,
+      "title": "RED SUNSET",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S09E04",
+      "season": 9,
+      "episodeNumber": 4,
+      "title": "MEADOW ROAD",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S09E05",
+      "season": 9,
+      "episodeNumber": 5,
+      "title": "WINTER OVAL",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CONIFER",
+        "FOG",
+        "FRAMED",
+        "MOUNTAIN",
+        "OVAL_FRAME",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S09E06",
+      "season": 9,
+      "episodeNumber": 6,
+      "title": "SECLUDED BEACH",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S09E07",
+      "season": 9,
+      "episodeNumber": 7,
+      "title": "FOREST HILLS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S09E08",
+      "season": 9,
+      "episodeNumber": 8,
+      "title": "LITTLE HOUSE BY-THE-ROAD",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "FENCE",
+        "MOUNTAIN",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S09E09",
+      "season": 9,
+      "episodeNumber": 9,
+      "title": "MOUNTAIN PATH",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S09E10",
+      "season": 9,
+      "episodeNumber": 10,
+      "title": "COUNTRY CHARM",
+      "elements": [],
+      "elementCount": 0
+    },
+    {
+      "id": "S09E11",
+      "season": 9,
+      "episodeNumber": 11,
+      "title": "NATURE'S PARADISE",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S09E12",
+      "season": 9,
+      "episodeNumber": 12,
+      "title": "MOUNTAIN-BY-THE-SEA",
+      "elements": [
+        "BEACH",
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "OCEAN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "WAVES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S09E13",
+      "season": 9,
+      "episodeNumber": 13,
+      "title": "MOUNTAIN HIDE-AWAY",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S10E01",
+      "season": 10,
+      "episodeNumber": 1,
+      "title": "TOWERING PEAKS",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "HILLS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S10E02",
+      "season": 10,
+      "episodeNumber": 2,
+      "title": "CABIN AT SUNSET",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "FENCE",
+        "GRASS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S10E03",
+      "season": 10,
+      "episodeNumber": 3,
+      "title": "TWIN FALLS",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "HILLS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S10E04",
+      "season": 10,
+      "episodeNumber": 4,
+      "title": "SECLUDED BRIDGE",
+      "elements": [
+        "BRIDGE",
+        "DECIDUOUS",
+        "RIVER",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S10E05",
+      "season": 10,
+      "episodeNumber": 5,
+      "title": "OCEAN BREEZE",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S10E06",
+      "season": 10,
+      "episodeNumber": 6,
+      "title": "AUTUMN WOODS",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S10E07",
+      "season": 10,
+      "episodeNumber": 7,
+      "title": "WINTER SOLITUDE",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S10E08",
+      "season": 10,
+      "episodeNumber": 8,
+      "title": "GOLDEN SUNSET",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "SNOW",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S10E09",
+      "season": 10,
+      "episodeNumber": 9,
+      "title": "MOUNTAIN OVAL",
+      "elements": [
+        "BUSHES",
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "FRAMED",
+        "GUEST",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "OVAL_FRAME",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 15
+    },
+    {
+      "id": "S10E10",
+      "season": 10,
+      "episodeNumber": 10,
+      "title": "OCEAN SUNSET",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S10E11",
+      "season": 10,
+      "episodeNumber": 11,
+      "title": "TRIPLE VIEW",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "TRIPLE_FRAME"
+      ],
+      "elementCount": 13
+    },
+    {
+      "id": "S10E12",
+      "season": 10,
+      "episodeNumber": 12,
+      "title": "WINTER FROST",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S10E13",
+      "season": 10,
+      "episodeNumber": 13,
+      "title": "LAKESIDE CABIN",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "PATH",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S11E01",
+      "season": 11,
+      "episodeNumber": 1,
+      "title": "MOUNTAIN STREAM",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S11E02",
+      "season": 11,
+      "episodeNumber": 2,
+      "title": "COUNTRY CABIN",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S11E03",
+      "season": 11,
+      "episodeNumber": 3,
+      "title": "DAISY DELIGHT",
+      "elements": [
+        "CONIFER",
+        "FENCE",
+        "FLOWERS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S11E04",
+      "season": 11,
+      "episodeNumber": 4,
+      "title": "HIDDEN STREAM",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "DECIDUOUS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S11E05",
+      "season": 11,
+      "episodeNumber": 5,
+      "title": "TOWERING GLACIER",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S11E06",
+      "season": 11,
+      "episodeNumber": 6,
+      "title": "OVAL BARN",
+      "elements": [
+        "BARN",
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FRAMED",
+        "OVAL_FRAME",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S11E07",
+      "season": 11,
+      "episodeNumber": 7,
+      "title": "LAKESIDE PATH",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "PATH",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S11E08",
+      "season": 11,
+      "episodeNumber": 8,
+      "title": "SUNSET OVAL",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FRAMED",
+        "LAKE",
+        "MOUNTAIN",
+        "OVAL_FRAME",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S11E09",
+      "season": 11,
+      "episodeNumber": 9,
+      "title": "WINTER BARN",
+      "elements": [
+        "BARN",
+        "CIRRUS",
+        "CLOUDS",
+        "DECIDUOUS",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S11E10",
+      "season": 11,
+      "episodeNumber": 10,
+      "title": "SUNSET OVER THE WAVES",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "OCEAN",
+        "ROCKS",
+        "SUN",
+        "WAVES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S11E11",
+      "season": 11,
+      "episodeNumber": 11,
+      "title": "GOLDEN GLOW",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S11E12",
+      "season": 11,
+      "episodeNumber": 12,
+      "title": "ROADSIDE BARN",
+      "elements": [
+        "BARN",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FENCE",
+        "LAKE",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S11E13",
+      "season": 11,
+      "episodeNumber": 13,
+      "title": "HAPPY ACCIDENT",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S12E01",
+      "season": 12,
+      "episodeNumber": 1,
+      "title": "GOLDEN KNOLL",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "FOG",
+        "GRASS",
+        "STRUCTURE",
+        "SUN",
+        "TREE"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S12E02",
+      "season": 12,
+      "episodeNumber": 2,
+      "title": "MOUNTAIN REFLECTIONS",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S12E03",
+      "season": 12,
+      "episodeNumber": 3,
+      "title": "SECLUDED MOUNTAIN",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S12E04",
+      "season": 12,
+      "episodeNumber": 4,
+      "title": "BRIGHT AUTUMN TREES",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "PATH",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S12E05",
+      "season": 12,
+      "episodeNumber": 5,
+      "title": "BLACK SEASCAPE",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "NIGHT",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S12E06",
+      "season": 12,
+      "episodeNumber": 6,
+      "title": "STEEP MOUNTAINS",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 13
+    },
+    {
+      "id": "S12E07",
+      "season": 12,
+      "episodeNumber": 7,
+      "title": "QUIET MOUNTAIN RIVER",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S12E08",
+      "season": 12,
+      "episodeNumber": 8,
+      "title": "EVENING WATERFALL",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S12E09",
+      "season": 12,
+      "episodeNumber": 9,
+      "title": "TROPICAL SEASCAPE",
+      "elements": [
+        "BEACH",
+        "CIRRUS",
+        "CLOUDS",
+        "OCEAN",
+        "PALM_TREES",
+        "WAVES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S12E10",
+      "season": 12,
+      "episodeNumber": 10,
+      "title": "MOUNTAIN AT SUNSET",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S12E11",
+      "season": 12,
+      "episodeNumber": 11,
+      "title": "SOFT MOUNTAIN GLOW",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S12E12",
+      "season": 12,
+      "episodeNumber": 12,
+      "title": "MOUNTAIN IN AN OVAL",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "OVAL_FRAME",
+        "RIVER",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 14
+    },
+    {
+      "id": "S12E13",
+      "season": 12,
+      "episodeNumber": 13,
+      "title": "WINTER MOUNTAIN",
+      "elements": [
+        "CONIFER",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S13E01",
+      "season": 13,
+      "episodeNumber": 1,
+      "title": "ROLLING HILLS",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "HILLS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S13E02",
+      "season": 13,
+      "episodeNumber": 2,
+      "title": "FROZEN SOLITUDE",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 13
+    },
+    {
+      "id": "S13E03",
+      "season": 13,
+      "episodeNumber": 3,
+      "title": "MEADOW BROOK",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "MOUNTAIN",
+        "OVAL_FRAME",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S13E04",
+      "season": 13,
+      "episodeNumber": 4,
+      "title": "EVENING AT SUNSET",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "RIVER",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S13E05",
+      "season": 13,
+      "episodeNumber": 5,
+      "title": "MOUNTAIN VIEW",
+      "elements": [
+        "CLOUDS",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S13E06",
+      "season": 13,
+      "episodeNumber": 6,
+      "title": "HIDDEN CREEK",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S13E07",
+      "season": 13,
+      "episodeNumber": 7,
+      "title": "PEACEFUL HAVEN",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "PATH",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S13E08",
+      "season": 13,
+      "episodeNumber": 8,
+      "title": "MOUNTAIN EXHIBITION",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S13E09",
+      "season": 13,
+      "episodeNumber": 9,
+      "title": "EMERALD WATERS",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S13E10",
+      "season": 13,
+      "episodeNumber": 10,
+      "title": "MOUNTAIN SUMMIT",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S13E11",
+      "season": 13,
+      "episodeNumber": 11,
+      "title": "CABIN HIDEAWAY",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S13E12",
+      "season": 13,
+      "episodeNumber": 12,
+      "title": "OVAL ESSENCE",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "FRAMED",
+        "NIGHT",
+        "OCEAN",
+        "OVAL_FRAME",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WAVES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S13E13",
+      "season": 13,
+      "episodeNumber": 13,
+      "title": "LOST LAKE",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S14E01",
+      "season": 14,
+      "episodeNumber": 1,
+      "title": "DISTANT MOUNTAINS",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S14E02",
+      "season": 14,
+      "episodeNumber": 2,
+      "title": "MEADOW BROOK SURPRISE",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S14E03",
+      "season": 14,
+      "episodeNumber": 3,
+      "title": "MOUNTAIN MOONLIGHT OVAL",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "NIGHT",
+        "OVAL_FRAME",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S14E04",
+      "season": 14,
+      "episodeNumber": 4,
+      "title": "SNOWY SOLITUDE",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "DECIDUOUS",
+        "FENCE",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S14E05",
+      "season": 14,
+      "episodeNumber": 5,
+      "title": "MOUNTAIN RIVER",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "FOG",
+        "FRAMED",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "TOMB_FRAME",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 13
+    },
+    {
+      "id": "S14E06",
+      "season": 14,
+      "episodeNumber": 6,
+      "title": "GRACEFUL MOUNTAINS",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S14E07",
+      "season": 14,
+      "episodeNumber": 7,
+      "title": "WINDY WAVES",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "GRASS",
+        "OCEAN",
+        "PALM_TREES",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S14E08",
+      "season": 14,
+      "episodeNumber": 8,
+      "title": "ON A CLEAR DAY",
+      "elements": [
+        "CONIFER",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S14E09",
+      "season": 14,
+      "episodeNumber": 9,
+      "title": "RIVERSIDE ESCAPE OVAL",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FRAMED",
+        "OVAL_FRAME",
+        "PATH",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S14E10",
+      "season": 14,
+      "episodeNumber": 10,
+      "title": "SURPRISING FALLS",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "DECIDUOUS",
+        "GUEST",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "WATERFALL"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S14E11",
+      "season": 14,
+      "episodeNumber": 11,
+      "title": "SHADOW POND",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S14E12",
+      "season": 14,
+      "episodeNumber": 12,
+      "title": "MISTY FOREST OVAL",
+      "elements": [
+        "CLOUDS",
+        "DECIDUOUS",
+        "FOG",
+        "FRAMED",
+        "GRASS",
+        "OVAL_FRAME",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S14E13",
+      "season": 14,
+      "episodeNumber": 13,
+      "title": "NATURAL WONDER",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S15E01",
+      "season": 15,
+      "episodeNumber": 1,
+      "title": "SPLENDOR OF WINTER",
+      "elements": [
+        "BUSHES",
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "SNOW",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S15E02",
+      "season": 15,
+      "episodeNumber": 2,
+      "title": "COLORS OF NATURE",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S15E03",
+      "season": 15,
+      "episodeNumber": 3,
+      "title": "GRANDPA'S BARN",
+      "elements": [
+        "BARN",
+        "DECIDUOUS",
+        "FENCE",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S15E04",
+      "season": 15,
+      "episodeNumber": 4,
+      "title": "PEACEFUL REFLECTIONS",
+      "elements": [],
+      "elementCount": 0
+    },
+    {
+      "id": "S15E05",
+      "season": 15,
+      "episodeNumber": 5,
+      "title": "HIDDEN WINTER MOON OVAL",
+      "elements": [
+        "CABIN",
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "FRAMED",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "OVAL_FRAME",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 14
+    },
+    {
+      "id": "S15E06",
+      "season": 15,
+      "episodeNumber": 6,
+      "title": "WAVES OF WONDER",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S15E07",
+      "season": 15,
+      "episodeNumber": 7,
+      "title": "CABIN BY THE POND",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S15E08",
+      "season": 15,
+      "episodeNumber": 8,
+      "title": "FALL STREAM",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S15E09",
+      "season": 15,
+      "episodeNumber": 9,
+      "title": "CHRISTMAS EVE SNOW",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S15E10",
+      "season": 15,
+      "episodeNumber": 10,
+      "title": "FOREST DAWN OVAL",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "OVAL_FRAME",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S15E11",
+      "season": 15,
+      "episodeNumber": 11,
+      "title": "PATHWAY TO AUTUMN",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S15E12",
+      "season": 15,
+      "episodeNumber": 12,
+      "title": "DEEP FOREST LAKE",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S15E13",
+      "season": 15,
+      "episodeNumber": 13,
+      "title": "PEAKS OF MAJESTY",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S16E01",
+      "season": 16,
+      "episodeNumber": 1,
+      "title": "TWO SEASONS",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FOG",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S16E02",
+      "season": 16,
+      "episodeNumber": 2,
+      "title": "NESTLED CABIN",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S16E03",
+      "season": 16,
+      "episodeNumber": 3,
+      "title": "WINTERTIME DISCOVERY",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S16E04",
+      "season": 16,
+      "episodeNumber": 4,
+      "title": "MOUNTAIN MIRAGE",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "FOG",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S16E05",
+      "season": 16,
+      "episodeNumber": 5,
+      "title": "DOUBLE OVAL FANTASY",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DOUBLE_OVAL_FRAME",
+        "FRAMED",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S16E06",
+      "season": 16,
+      "episodeNumber": 6,
+      "title": "CONTEMPLATIVE LADY",
+      "elements": [
+        "GUEST",
+        "PORTRAIT"
+      ],
+      "elementCount": 2
+    },
+    {
+      "id": "S16E07",
+      "season": 16,
+      "episodeNumber": 7,
+      "title": "DEEP WOODS",
+      "elements": [
+        "CONIFER",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S16E08",
+      "season": 16,
+      "episodeNumber": 8,
+      "title": "HIGH TIDE",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "OCEAN",
+        "PALM_TREES",
+        "WAVES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S16E09",
+      "season": 16,
+      "episodeNumber": 9,
+      "title": "BARN IN SNOW OVAL",
+      "elements": [
+        "BARN",
+        "CONIFER",
+        "FENCE",
+        "FRAMED",
+        "OVAL_FRAME",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S16E10",
+      "season": 16,
+      "episodeNumber": 10,
+      "title": "THAT TIME OF YEAR",
+      "elements": [
+        "CLOUDS",
+        "DECIDUOUS",
+        "GUEST",
+        "HILLS",
+        "LAKE",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S16E11",
+      "season": 16,
+      "episodeNumber": 11,
+      "title": "WATERFALL WONDER",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S16E12",
+      "season": 16,
+      "episodeNumber": 12,
+      "title": "MIGHTY MOUNTAIN LAKE",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "FLOWERS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S16E13",
+      "season": 16,
+      "episodeNumber": 13,
+      "title": "WOODED STREAM OVAL",
+      "elements": [
+        "DECIDUOUS",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S17E01",
+      "season": 17,
+      "episodeNumber": 1,
+      "title": "GOLDEN MIST OVAL",
+      "elements": [
+        "CONIFER",
+        "FOG",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S17E02",
+      "season": 17,
+      "episodeNumber": 2,
+      "title": "THE OLD HOME PLACE",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "FENCE",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "TREE"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S17E03",
+      "season": 17,
+      "episodeNumber": 3,
+      "title": "SOOTHING VISTA",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S17E04",
+      "season": 17,
+      "episodeNumber": 4,
+      "title": "STORMY SEAS",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "OCEAN",
+        "ROCKS",
+        "SUN",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S17E05",
+      "season": 17,
+      "episodeNumber": 5,
+      "title": "COUNTRY TIME",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "FLOWERS",
+        "FRAMED",
+        "LAKE",
+        "OVAL_FRAME",
+        "STRUCTURE",
+        "TREE"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S17E06",
+      "season": 17,
+      "episodeNumber": 6,
+      "title": "A MILD WINTER'S DAY",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "RIVER",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S17E07",
+      "season": 17,
+      "episodeNumber": 7,
+      "title": "SPECTACULAR WATERFALL",
+      "elements": [
+        "CONIFER",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S17E08",
+      "season": 17,
+      "episodeNumber": 8,
+      "title": "VIEW FROM THE PARK",
+      "elements": [
+        "APPLE_FRAME",
+        "BRIDGE",
+        "BUILDING",
+        "DECIDUOUS",
+        "FRAMED",
+        "LAKE",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S17E09",
+      "season": 17,
+      "episodeNumber": 9,
+      "title": "LAKE VIEW",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "FLOWERS",
+        "GRASS",
+        "GUEST",
+        "HILLS",
+        "LAKE",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S17E10",
+      "season": 17,
+      "episodeNumber": 10,
+      "title": "OLD COUNTRY MILL",
+      "elements": [
+        "DECIDUOUS",
+        "MILL",
+        "RIVER",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S17E11",
+      "season": 17,
+      "episodeNumber": 11,
+      "title": "MORNING WALK",
+      "elements": [
+        "DECIDUOUS",
+        "FOG",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S17E12",
+      "season": 17,
+      "episodeNumber": 12,
+      "title": "NATURE'S SPLENDOR",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S17E13",
+      "season": 17,
+      "episodeNumber": 13,
+      "title": "MOUNTAIN BEAUTY",
+      "elements": [
+        "CUMULUS",
+        "FLOWERS",
+        "GRASS",
+        "GUEST",
+        "HILLS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S18E01",
+      "season": 18,
+      "episodeNumber": 1,
+      "title": "HALF-OVAL VIGNETTE",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "FRAMED",
+        "HALF_OVAL_FRAME",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S18E02",
+      "season": 18,
+      "episodeNumber": 2,
+      "title": "ABSOLUTELY AUTUMN",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S18E03",
+      "season": 18,
+      "episodeNumber": 3,
+      "title": "MOUNTAIN SECLUSION",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S18E04",
+      "season": 18,
+      "episodeNumber": 4,
+      "title": "CRIMSON OVAL",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S18E05",
+      "season": 18,
+      "episodeNumber": 5,
+      "title": "AUTUMN EXHIBITION",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S18E06",
+      "season": 18,
+      "episodeNumber": 6,
+      "title": "MAJESTIC PEAKS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S18E07",
+      "season": 18,
+      "episodeNumber": 7,
+      "title": "GOLDEN MORNING MIST",
+      "elements": [
+        "DECIDUOUS",
+        "FOG",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S18E08",
+      "season": 18,
+      "episodeNumber": 8,
+      "title": "WINTER LACE",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FRAMED",
+        "HALF_CIRCLE_FRAME",
+        "LAKE",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S18E09",
+      "season": 18,
+      "episodeNumber": 9,
+      "title": "SEASCAPE FANTASY",
+      "elements": [
+        "BEACH",
+        "CIRRUS",
+        "CLOUDS",
+        "OCEAN",
+        "WAVES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S18E10",
+      "season": 18,
+      "episodeNumber": 10,
+      "title": "DOUBLE OVAL STREAM",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "FRAMED",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S18E11",
+      "season": 18,
+      "episodeNumber": 11,
+      "title": "ENCHANTED FOREST",
+      "elements": [
+        "DECIDUOUS",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S18E12",
+      "season": 18,
+      "episodeNumber": 12,
+      "title": "SOUTHWEST SERENITY",
+      "elements": [
+        "CACTUS",
+        "CIRRUS",
+        "CLOUDS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S18E13",
+      "season": 18,
+      "episodeNumber": 13,
+      "title": "RIPPLING WATERS",
+      "elements": [
+        "DECIDUOUS",
+        "RIVER",
+        "ROCKS",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S19E01",
+      "season": 19,
+      "episodeNumber": 1,
+      "title": "SNOWFALL MAGIC",
+      "elements": [
+        "DECIDUOUS",
+        "RIVER",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S19E02",
+      "season": 19,
+      "episodeNumber": 2,
+      "title": "QUIET MOUNTAIN LAKE",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S19E03",
+      "season": 19,
+      "episodeNumber": 3,
+      "title": "FINAL EMBERS OF SUNLIGHT",
+      "elements": [
+        "DECIDUOUS",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S19E04",
+      "season": 19,
+      "episodeNumber": 4,
+      "title": "SNOWY MORN",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S19E05",
+      "season": 19,
+      "episodeNumber": 5,
+      "title": "CAMPER'S HAVEN",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S19E06",
+      "season": 19,
+      "episodeNumber": 6,
+      "title": "WATERFALL IN THE WOODS",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S19E07",
+      "season": 19,
+      "episodeNumber": 7,
+      "title": "COVERED BRIDGE OVAL",
+      "elements": [
+        "BRIDGE",
+        "CONIFER",
+        "FENCE",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S19E08",
+      "season": 19,
+      "episodeNumber": 8,
+      "title": "SCENIC SECLUSION",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S19E09",
+      "season": 19,
+      "episodeNumber": 9,
+      "title": "EBB TIDE",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "OCEAN",
+        "ROCKS",
+        "SUN",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S19E10",
+      "season": 19,
+      "episodeNumber": 10,
+      "title": "AFTER THE RAIN",
+      "elements": [
+        "DECIDUOUS",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S19E11",
+      "season": 19,
+      "episodeNumber": 11,
+      "title": "WINTER'S ELEGANCE",
+      "elements": [
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "LAKE",
+        "ROCKS",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S19E12",
+      "season": 19,
+      "episodeNumber": 12,
+      "title": "EVENING'S PEACE",
+      "elements": [
+        "BARN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FENCE",
+        "MOON",
+        "NIGHT",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S19E13",
+      "season": 19,
+      "episodeNumber": 13,
+      "title": "VALLEY OF TRANQUILITY",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S20E01",
+      "season": 20,
+      "episodeNumber": 1,
+      "title": "MYSTIC MOUNTAIN",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S20E02",
+      "season": 20,
+      "episodeNumber": 2,
+      "title": "NEW DAY'S DAWN",
+      "elements": [
+        "BARN",
+        "CONIFER",
+        "FENCE",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S20E03",
+      "season": 20,
+      "episodeNumber": 3,
+      "title": "PASTEL WINTER",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S20E04",
+      "season": 20,
+      "episodeNumber": 4,
+      "title": "HAZY DAY",
+      "elements": [
+        "DECIDUOUS",
+        "FOG",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S20E05",
+      "season": 20,
+      "episodeNumber": 5,
+      "title": "DIVINE ELEGANCE",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S20E06",
+      "season": 20,
+      "episodeNumber": 6,
+      "title": "CLIFFSIDE",
+      "elements": [
+        "BEACH",
+        "CLIFF",
+        "CLOUDS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S20E07",
+      "season": 20,
+      "episodeNumber": 7,
+      "title": "AUTUMN FANTASY",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S20E08",
+      "season": 20,
+      "episodeNumber": 8,
+      "title": "THE OLD OAK TREE",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S20E09",
+      "season": 20,
+      "episodeNumber": 9,
+      "title": "WINTER'S PARADISE",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S20E10",
+      "season": 20,
+      "episodeNumber": 10,
+      "title": "DAYS GONE BY",
+      "elements": [
+        "BRIDGE",
+        "BUSHES",
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S20E11",
+      "season": 20,
+      "episodeNumber": 11,
+      "title": "CHANGE OF SEASONS",
+      "elements": [
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S20E12",
+      "season": 20,
+      "episodeNumber": 12,
+      "title": "HIDDEN DELIGHT",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "PATH",
+        "RIVER",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S20E13",
+      "season": 20,
+      "episodeNumber": 13,
+      "title": "DOUBLE TAKE",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "FOG",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S21E01",
+      "season": 21,
+      "episodeNumber": 1,
+      "title": "VALLEY VIEW",
+      "elements": [
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S21E02",
+      "season": 21,
+      "episodeNumber": 2,
+      "title": "TRANQUIL DAWN",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "FOG",
+        "RIVER",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S21E03",
+      "season": 21,
+      "episodeNumber": 3,
+      "title": "ROYAL MAJESTY",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S21E04",
+      "season": 21,
+      "episodeNumber": 4,
+      "title": "SERENITY",
+      "elements": [
+        "DECIDUOUS",
+        "FLOWERS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S21E05",
+      "season": 21,
+      "episodeNumber": 5,
+      "title": "CABIN AT TRAIL'S END",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "FRAMED",
+        "OVAL_FRAME",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S21E06",
+      "season": 21,
+      "episodeNumber": 6,
+      "title": "MOUNTAIN RHAPSODY",
+      "elements": [
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S21E07",
+      "season": 21,
+      "episodeNumber": 7,
+      "title": "WILDERNESS CABIN",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "LAKE",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S21E08",
+      "season": 21,
+      "episodeNumber": 8,
+      "title": "BY THE SEA",
+      "elements": [
+        "BEACH",
+        "CLIFF",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "OCEAN",
+        "ROCKS",
+        "SUN",
+        "TREE",
+        "WAVES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S21E09",
+      "season": 21,
+      "episodeNumber": 9,
+      "title": "INDIAN SUMMER",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S21E10",
+      "season": 21,
+      "episodeNumber": 10,
+      "title": "BLUE WINTER",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S21E11",
+      "season": 21,
+      "episodeNumber": 11,
+      "title": "DESERT GLOW",
+      "elements": [
+        "CACTUS",
+        "CLOUDS",
+        "FRAMED",
+        "MOUNTAIN",
+        "OVAL_FRAME",
+        "PATH"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S21E12",
+      "season": 21,
+      "episodeNumber": 12,
+      "title": "LONE MOUNTAIN",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S21E13",
+      "season": 21,
+      "episodeNumber": 13,
+      "title": "FLORIDA'S GLORY",
+      "elements": [
+        "BEACH",
+        "FLORIDA_FRAME",
+        "OCEAN",
+        "PALM_TREES",
+        "WAVES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S22E01",
+      "season": 22,
+      "episodeNumber": 1,
+      "title": "AUTUMN IMAGES",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CUMULUS",
+        "DECIDUOUS",
+        "FLOWERS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S22E02",
+      "season": 22,
+      "episodeNumber": 2,
+      "title": "HINT OF SPRINGTIME",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S22E03",
+      "season": 22,
+      "episodeNumber": 3,
+      "title": "AROUND THE BEND",
+      "elements": [
+        "CONIFER",
+        "FLOWERS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S22E04",
+      "season": 22,
+      "episodeNumber": 4,
+      "title": "COUNTRYSIDE OVAL",
+      "elements": [
+        "CLOUDS",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "HILLS",
+        "OVAL_FRAME",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S22E05",
+      "season": 22,
+      "episodeNumber": 5,
+      "title": "RUSSET WINTER",
+      "elements": [
+        "BARN",
+        "DECIDUOUS",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "WINTER"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S22E06",
+      "season": 22,
+      "episodeNumber": 6,
+      "title": "PURPLE HAZE",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S22E07",
+      "season": 22,
+      "episodeNumber": 7,
+      "title": "DIMENSIONS",
+      "elements": [
+        "CONIFER",
+        "FRAMED",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RECTANGLE_3D_FRAME",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S22E08",
+      "season": 22,
+      "episodeNumber": 8,
+      "title": "DEEP WILDERNESS HOME",
+      "elements": [
+        "CABIN",
+        "CLIFF",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S22E09",
+      "season": 22,
+      "episodeNumber": 9,
+      "title": "HAVEN IN THE VALLEY",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "FRAMED",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "OVAL_FRAME",
+        "PATH",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S22E10",
+      "season": 22,
+      "episodeNumber": 10,
+      "title": "WINTERTIME BLUES",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S22E11",
+      "season": 22,
+      "episodeNumber": 11,
+      "title": "PASTEL SEASCAPE",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "FRAMED",
+        "OCEAN",
+        "OVAL_FRAME",
+        "SUN",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S22E12",
+      "season": 22,
+      "episodeNumber": 12,
+      "title": "COUNTRY CREEK",
+      "elements": [
+        "CONIFER",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S22E13",
+      "season": 22,
+      "episodeNumber": 13,
+      "title": "SILENT FOREST",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S23E01",
+      "season": 23,
+      "episodeNumber": 1,
+      "title": "FROSTY WINTER MORN",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FENCE",
+        "HILLS",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S23E02",
+      "season": 23,
+      "episodeNumber": 2,
+      "title": "FOREST EDGE",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S23E03",
+      "season": 23,
+      "episodeNumber": 3,
+      "title": "MOUNTAIN RIDGE LAKE",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S23E04",
+      "season": 23,
+      "episodeNumber": 4,
+      "title": "REFLECTIONS OF GOLD",
+      "elements": [
+        "CLOUDS",
+        "DECIDUOUS",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "SNOW",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S23E05",
+      "season": 23,
+      "episodeNumber": 5,
+      "title": "QUIET COVE",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "HILLS",
+        "LAKE",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S23E06",
+      "season": 23,
+      "episodeNumber": 6,
+      "title": "RIVER'S PEACE",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S23E07",
+      "season": 23,
+      "episodeNumber": 7,
+      "title": "AT DAWN'S LIGHT",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S23E08",
+      "season": 23,
+      "episodeNumber": 8,
+      "title": "VALLEY WATERFALL",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "WATERFALL"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S23E09",
+      "season": 23,
+      "episodeNumber": 9,
+      "title": "TOWARD DAY'S END",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "OVAL_FRAME",
+        "RIVER",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S23E10",
+      "season": 23,
+      "episodeNumber": 10,
+      "title": "FALLS IN THE GLEN",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S23E11",
+      "season": 23,
+      "episodeNumber": 11,
+      "title": "FROZEN BEAUTY IN VIGNETTE",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S23E12",
+      "season": 23,
+      "episodeNumber": 12,
+      "title": "CRIMSON TIDE",
+      "elements": [
+        "BEACH",
+        "CLIFF",
+        "CLOUDS",
+        "OCEAN",
+        "ROCKS",
+        "SUN",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S23E13",
+      "season": 23,
+      "episodeNumber": 13,
+      "title": "WINTER BLISS",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "FRAMED",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "OVAL_FRAME",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S24E01",
+      "season": 24,
+      "episodeNumber": 1,
+      "title": "GRAY MOUNTAIN",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "MOUNTAIN",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S24E02",
+      "season": 24,
+      "episodeNumber": 2,
+      "title": "WAYSIDE POND",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S24E03",
+      "season": 24,
+      "episodeNumber": 3,
+      "title": "TETON WINTER",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S24E04",
+      "season": 24,
+      "episodeNumber": 4,
+      "title": "LITTLE HOME IN THE MEADOW",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "OVAL_FRAME",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S24E05",
+      "season": 24,
+      "episodeNumber": 5,
+      "title": "A PRETTY AUTUMN DAY",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "RIVER",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S24E06",
+      "season": 24,
+      "episodeNumber": 6,
+      "title": "MIRRORED IMAGES",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S24E07",
+      "season": 24,
+      "episodeNumber": 7,
+      "title": "BACK COUNTRY",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S24E08",
+      "season": 24,
+      "episodeNumber": 8,
+      "title": "GRACEFUL WATERFALL",
+      "elements": [
+        "CLIFF",
+        "DECIDUOUS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S24E09",
+      "season": 24,
+      "episodeNumber": 9,
+      "title": "ICY LAKE",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "FRAMED",
+        "GUEST",
+        "LAKE",
+        "OVAL_FRAME",
+        "SNOW",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S24E10",
+      "season": 24,
+      "episodeNumber": 10,
+      "title": "ROWBOAT ON THE BEACH",
+      "elements": [
+        "BEACH",
+        "BOAT",
+        "CLOUDS",
+        "FRAMED",
+        "GRASS",
+        "HILLS",
+        "OCEAN",
+        "OVAL_FRAME",
+        "SUN",
+        "WAVES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S24E11",
+      "season": 24,
+      "episodeNumber": 11,
+      "title": "PORTRAIT OF WINTER",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S24E12",
+      "season": 24,
+      "episodeNumber": 12,
+      "title": "THE FOOTBRIDGE",
+      "elements": [
+        "BRIDGE",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S24E13",
+      "season": 24,
+      "episodeNumber": 13,
+      "title": "SNOWBOUND CABIN",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "FENCE",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S25E01",
+      "season": 25,
+      "episodeNumber": 1,
+      "title": "HIDE-A-WAY COVE",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S25E02",
+      "season": 25,
+      "episodeNumber": 2,
+      "title": "ENCHANTED FALLS OVAL",
+      "elements": [
+        "DECIDUOUS",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S25E03",
+      "season": 25,
+      "episodeNumber": 3,
+      "title": "NOT QUITE SPRING",
+      "elements": [
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S25E04",
+      "season": 25,
+      "episodeNumber": 4,
+      "title": "SPLASHES OF AUTUMN",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S25E05",
+      "season": 25,
+      "episodeNumber": 5,
+      "title": "SUMMER IN THE MOUNTAIN",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "GUEST",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S25E06",
+      "season": 25,
+      "episodeNumber": 6,
+      "title": "ORIENTAL FALLS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "FOG",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S25E07",
+      "season": 25,
+      "episodeNumber": 7,
+      "title": "AUTUMN PALETTE",
+      "elements": [
+        "DECIDUOUS",
+        "FENCE",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S25E08",
+      "season": 25,
+      "episodeNumber": 8,
+      "title": "CYPRESS SWAMP",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "TREE"
+      ],
+      "elementCount": 3
+    },
+    {
+      "id": "S25E09",
+      "season": 25,
+      "episodeNumber": 9,
+      "title": "DOWNSTREAM VIEW",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S25E10",
+      "season": 25,
+      "episodeNumber": 10,
+      "title": "JUST BEFORE THE STORM",
+      "elements": [
+        "CLOUDS",
+        "FRAMED",
+        "OCEAN",
+        "OVAL_FRAME",
+        "PALM_TREES",
+        "WAVES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S25E11",
+      "season": 25,
+      "episodeNumber": 11,
+      "title": "FISHERMAN'S PARADISE",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "LAKE",
+        "STRUCTURE",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S25E12",
+      "season": 25,
+      "episodeNumber": 12,
+      "title": "DESERT HUES",
+      "elements": [
+        "CACTUS",
+        "CIRRUS",
+        "CLOUDS",
+        "MOUNTAIN",
+        "PATH"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S25E13",
+      "season": 25,
+      "episodeNumber": 13,
+      "title": "THE PROPERTY LINE",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "FENCE",
+        "SNOW",
+        "TREE",
+        "WINTER"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S26E01",
+      "season": 26,
+      "episodeNumber": 1,
+      "title": "IN THE STILLNESS OF MORNING",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "FOG",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S26E02",
+      "season": 26,
+      "episodeNumber": 2,
+      "title": "DELIGHTFUL MEADOW HOME",
+      "elements": [
+        "CABIN",
+        "DECIDUOUS",
+        "FENCE",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S26E03",
+      "season": 26,
+      "episodeNumber": 3,
+      "title": "FIRST SNOW",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S26E04",
+      "season": 26,
+      "episodeNumber": 4,
+      "title": "LAKE IN THE VALLEY",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "PATH",
+        "SNOWY_MOUNTAIN",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S26E05",
+      "season": 26,
+      "episodeNumber": 5,
+      "title": "TRACE OF SPRING",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "DECIDUOUS",
+        "FLOWERS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S26E06",
+      "season": 26,
+      "episodeNumber": 6,
+      "title": "ARCTIC WINTER DAY",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S26E07",
+      "season": 26,
+      "episodeNumber": 7,
+      "title": "SNOW BIRCH",
+      "elements": [
+        "DECIDUOUS",
+        "LAKE",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S26E08",
+      "season": 26,
+      "episodeNumber": 8,
+      "title": "EARLY AUTUMN",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "OVAL_FRAME",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S26E09",
+      "season": 26,
+      "episodeNumber": 9,
+      "title": "TRANQUIL WOODED STREAM",
+      "elements": [
+        "DECIDUOUS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S26E10",
+      "season": 26,
+      "episodeNumber": 10,
+      "title": "PURPLE MOUNTAIN RANGE",
+      "elements": [],
+      "elementCount": 0
+    },
+    {
+      "id": "S26E11",
+      "season": 26,
+      "episodeNumber": 11,
+      "title": "STORM'S A COMIN'",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "HILLS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S26E12",
+      "season": 26,
+      "episodeNumber": 12,
+      "title": "SUNSET AGLOW",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S26E13",
+      "season": 26,
+      "episodeNumber": 13,
+      "title": "EVENING AT THE FALLS",
+      "elements": [
+        "CONIFER",
+        "NIGHT",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S27E01",
+      "season": 27,
+      "episodeNumber": 1,
+      "title": "TWILIGHT BEAUTY",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "FOG",
+        "FRAMED",
+        "LAKE",
+        "OVAL_FRAME",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S27E02",
+      "season": 27,
+      "episodeNumber": 2,
+      "title": "ANGLER'S HAVEN",
+      "elements": [
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S27E03",
+      "season": 27,
+      "episodeNumber": 3,
+      "title": "RUSTIC WINTER WOODS",
+      "elements": [
+        "DECIDUOUS",
+        "SNOW",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S27E04",
+      "season": 27,
+      "episodeNumber": 4,
+      "title": "WILDERNESS FALLS",
+      "elements": [
+        "BUSHES",
+        "CLOUDS",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S27E05",
+      "season": 27,
+      "episodeNumber": 5,
+      "title": "WINTER AT THE FARM",
+      "elements": [
+        "CONIFER",
+        "FARM",
+        "FENCE",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S27E06",
+      "season": 27,
+      "episodeNumber": 6,
+      "title": "DAISIES AT DAWN",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FLOWERS",
+        "FRAMED",
+        "LAKE",
+        "OVAL_FRAME",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S27E07",
+      "season": 27,
+      "episodeNumber": 7,
+      "title": "SPECTACULAR VIEW",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S27E08",
+      "season": 27,
+      "episodeNumber": 8,
+      "title": "DAYBREAK",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FENCE",
+        "FOG",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S27E09",
+      "season": 27,
+      "episodeNumber": 9,
+      "title": "ISLAND PARADISE",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "FRAMED",
+        "HILLS",
+        "OCEAN",
+        "OVAL_FRAME",
+        "PALM_TREES",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S27E10",
+      "season": 27,
+      "episodeNumber": 10,
+      "title": "SUNLIGHT IN THE SHADOWS",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "GUEST",
+        "RIVER",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S27E11",
+      "season": 27,
+      "episodeNumber": 11,
+      "title": "SPLENDOR OF A SNOWY WHITE",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "MOUNTAIN",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S27E12",
+      "season": 27,
+      "episodeNumber": 12,
+      "title": "FOREST RIVER",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S27E13",
+      "season": 27,
+      "episodeNumber": 13,
+      "title": "GOLDEN GLOW OF MORNING",
+      "elements": [
+        "CONIFER",
+        "FOG",
+        "LAKE",
+        "ROCKS",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S28E01",
+      "season": 28,
+      "episodeNumber": 1,
+      "title": "FISHERMAN'S TRAIL",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S28E02",
+      "season": 28,
+      "episodeNumber": 2,
+      "title": "TO A WARM WINTER",
+      "elements": [
+        "BARN",
+        "CONIFER",
+        "DECIDUOUS",
+        "HILLS",
+        "SNOW",
+        "STRUCTURE",
+        "SUN",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S28E03",
+      "season": 28,
+      "episodeNumber": 3,
+      "title": "UNDER PASTEL SKIES",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S28E04",
+      "season": 28,
+      "episodeNumber": 4,
+      "title": "GOLDEN RAYS OF SUNLIGHT",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S28E05",
+      "season": 28,
+      "episodeNumber": 5,
+      "title": "MAGIC OF FALL",
+      "elements": [
+        "DECIDUOUS",
+        "FENCE",
+        "GRASS",
+        "TREE"
+      ],
+      "elementCount": 4
+    },
+    {
+      "id": "S28E06",
+      "season": 28,
+      "episodeNumber": 6,
+      "title": "GLACIER LAKE",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S28E07",
+      "season": 28,
+      "episodeNumber": 7,
+      "title": "THE OLD WEATHERED BARN",
+      "elements": [
+        "BARN",
+        "DECIDUOUS",
+        "GRASS",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S28E08",
+      "season": 28,
+      "episodeNumber": 8,
+      "title": "DEEP FOREST FALLS",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "RIVER",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S28E09",
+      "season": 28,
+      "episodeNumber": 9,
+      "title": "WINTER'S GRACE",
+      "elements": [
+        "CONIFER",
+        "FOG",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S28E10",
+      "season": 28,
+      "episodeNumber": 10,
+      "title": "SPLENDOR OF AUTUMN",
+      "elements": [
+        "DECIDUOUS",
+        "FOG",
+        "GRASS",
+        "LAKE",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S28E11",
+      "season": 28,
+      "episodeNumber": 11,
+      "title": "TRANQUIL SEAS",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "CUMULUS",
+        "OCEAN",
+        "SUN",
+        "WAVES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S28E12",
+      "season": 28,
+      "episodeNumber": 12,
+      "title": "MOUNTAIN SERENITY",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S28E13",
+      "season": 28,
+      "episodeNumber": 13,
+      "title": "HOME BEFORE NIGHTFALL",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "DECIDUOUS",
+        "GRASS",
+        "NIGHT",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S29E01",
+      "season": 29,
+      "episodeNumber": 1,
+      "title": "ISLAND IN THE WILDERNESS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S29E02",
+      "season": 29,
+      "episodeNumber": 2,
+      "title": "AUTUMN OVAL",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "FRAMED",
+        "LAKE",
+        "MOUNTAINS",
+        "OVAL_FRAME",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S29E03",
+      "season": 29,
+      "episodeNumber": 3,
+      "title": "SEASONAL PROGRESSION",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "FRAMED",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "SPLIT_FRAME",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 13
+    },
+    {
+      "id": "S29E04",
+      "season": 29,
+      "episodeNumber": 4,
+      "title": "LIGHT AT THE SUMMIT",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "PATH",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S29E05",
+      "season": 29,
+      "episodeNumber": 5,
+      "title": "COUNTRYSIDE BARN",
+      "elements": [
+        "BARN",
+        "DECIDUOUS",
+        "GRASS",
+        "PATH",
+        "STRUCTURE",
+        "TREE"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S29E06",
+      "season": 29,
+      "episodeNumber": 6,
+      "title": "MOUNTAIN LAKE FALLS",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S29E07",
+      "season": 29,
+      "episodeNumber": 7,
+      "title": "CYPRESS CREEK",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S29E08",
+      "season": 29,
+      "episodeNumber": 8,
+      "title": "TRAPPER'S CABIN",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S29E09",
+      "season": 29,
+      "episodeNumber": 9,
+      "title": "STORM ON THE HORIZON",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "GRASS",
+        "OCEAN",
+        "PALM_TREES",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S29E10",
+      "season": 29,
+      "episodeNumber": 10,
+      "title": "POT 'O POSIES",
+      "elements": [
+        "FLOWERS",
+        "GUEST"
+      ],
+      "elementCount": 2
+    },
+    {
+      "id": "S29E11",
+      "season": 29,
+      "episodeNumber": 11,
+      "title": "PERFECT WINTER'S DAY",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "MOUNTAIN",
+        "SNOW",
+        "SNOWY_MOUNTAIN",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 11
+    },
+    {
+      "id": "S29E12",
+      "season": 29,
+      "episodeNumber": 12,
+      "title": "AURORA'S DANCE",
+      "elements": [
+        "AURORA_BOREALIS",
+        "CABIN",
+        "CONIFER",
+        "LAKE",
+        "NIGHT",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S29E13",
+      "season": 29,
+      "episodeNumber": 13,
+      "title": "THE WOODMAN'S RETREAT",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S30E01",
+      "season": 30,
+      "episodeNumber": 1,
+      "title": "BABBLING BROOK",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "GRASS",
+        "RIVER",
+        "TREE",
+        "WATERFALL"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S30E02",
+      "season": 30,
+      "episodeNumber": 2,
+      "title": "WOODGRAIN VIEW",
+      "elements": [
+        "DECIDUOUS",
+        "FRAMED",
+        "GRASS",
+        "LAKE",
+        "MOUNTAIN",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "WOOD_FRAMED"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S30E03",
+      "season": 30,
+      "episodeNumber": 3,
+      "title": "WINTER'S PEACE",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "LAKE",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S30E04",
+      "season": 30,
+      "episodeNumber": 4,
+      "title": "WILDERNESS TRAIL",
+      "elements": [
+        "BUSHES",
+        "DECIDUOUS",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S30E05",
+      "season": 30,
+      "episodeNumber": 5,
+      "title": "COPPER WINTER",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "LAKE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S30E06",
+      "season": 30,
+      "episodeNumber": 6,
+      "title": "MISTY FOOTHILLS",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "HILLS",
+        "LAKE",
+        "MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S30E07",
+      "season": 30,
+      "episodeNumber": 7,
+      "title": "THROUGH THE WINDOW",
+      "elements": [
+        "CONIFER",
+        "DECIDUOUS",
+        "FRAMED",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINDOW_FRAME",
+        "WINTER"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S30E08",
+      "season": 30,
+      "episodeNumber": 8,
+      "title": "HOME IN THE VALLEY",
+      "elements": [
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "CUMULUS",
+        "GRASS",
+        "LAKE",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S30E09",
+      "season": 30,
+      "episodeNumber": 9,
+      "title": "MOUNTAINS OF GRACE",
+      "elements": [
+        "CIRRUS",
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GUEST",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S30E10",
+      "season": 30,
+      "episodeNumber": 10,
+      "title": "SEASIDE HARMONY",
+      "elements": [
+        "BEACH",
+        "CLOUDS",
+        "OCEAN",
+        "ROCKS",
+        "WAVES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S30E11",
+      "season": 30,
+      "episodeNumber": 11,
+      "title": "COLD SPRING DAY",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S30E12",
+      "season": 30,
+      "episodeNumber": 12,
+      "title": "EVENING'S GLOW",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "PATH",
+        "SUN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S30E13",
+      "season": 30,
+      "episodeNumber": 13,
+      "title": "BLUE RIDGE FALLS",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "MOUNTAIN",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES",
+        "WATERFALL"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S31E01",
+      "season": 31,
+      "episodeNumber": 1,
+      "title": "REFLECTIONS OF CALM",
+      "elements": [
+        "CONIFER",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S31E02",
+      "season": 31,
+      "episodeNumber": 2,
+      "title": "BEFORE THE SNOWFALL",
+      "elements": [
+        "BUSHES",
+        "CABIN",
+        "CLOUDS",
+        "CONIFER",
+        "RIVER",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S31E03",
+      "season": 31,
+      "episodeNumber": 3,
+      "title": "WINDING STREAM",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "GRASS",
+        "RIVER",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S31E04",
+      "season": 31,
+      "episodeNumber": 4,
+      "title": "TRANQUILITY COVE",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "LAKE",
+        "ROCKS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 6
+    },
+    {
+      "id": "S31E05",
+      "season": 31,
+      "episodeNumber": 5,
+      "title": "CABIN IN THE HOLLOW",
+      "elements": [
+        "CABIN",
+        "CONIFER",
+        "FRAMED",
+        "OVAL_FRAME",
+        "RIVER",
+        "SNOW",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 9
+    },
+    {
+      "id": "S31E06",
+      "season": 31,
+      "episodeNumber": 6,
+      "title": "VIEW FROM CLEAR CREEK",
+      "elements": [
+        "BUSHES",
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "RIVER",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S31E07",
+      "season": 31,
+      "episodeNumber": 7,
+      "title": "BRIDGE TO AUTUMN",
+      "elements": [
+        "BRIDGE",
+        "DECIDUOUS",
+        "LAKE",
+        "PATH",
+        "STRUCTURE",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S31E08",
+      "season": 31,
+      "episodeNumber": 8,
+      "title": "TRAIL'S END",
+      "elements": [
+        "CLOUDS",
+        "DECIDUOUS",
+        "PATH",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    },
+    {
+      "id": "S31E09",
+      "season": 31,
+      "episodeNumber": 9,
+      "title": "EVERGREEN VALLEY",
+      "elements": [
+        "CONIFER",
+        "GRASS",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "ROCKS",
+        "SNOWY_MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 8
+    },
+    {
+      "id": "S31E10",
+      "season": 31,
+      "episodeNumber": 10,
+      "title": "BALMY BEACH",
+      "elements": [
+        "BEACH",
+        "FRAMED",
+        "OCEAN",
+        "PALM_TREES",
+        "ROCKS",
+        "SEASHELL_FRAME",
+        "WAVES"
+      ],
+      "elementCount": 7
+    },
+    {
+      "id": "S31E11",
+      "season": 31,
+      "episodeNumber": 11,
+      "title": "LAKE AT THE RIDGE",
+      "elements": [
+        "CLOUDS",
+        "CONIFER",
+        "DECIDUOUS",
+        "GRASS",
+        "GUEST",
+        "LAKE",
+        "MOUNTAIN",
+        "MOUNTAINS",
+        "SNOWY_MOUNTAIN",
+        "STEVE_ROSS",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 12
+    },
+    {
+      "id": "S31E12",
+      "season": 31,
+      "episodeNumber": 12,
+      "title": "IN THE MIDST OF WINTER",
+      "elements": [
+        "BARN",
+        "CONIFER",
+        "DECIDUOUS",
+        "FOG",
+        "PATH",
+        "SNOW",
+        "STRUCTURE",
+        "TREE",
+        "TREES",
+        "WINTER"
+      ],
+      "elementCount": 10
+    },
+    {
+      "id": "S31E13",
+      "season": 31,
+      "episodeNumber": 13,
+      "title": "WILDERNESS DAY",
+      "elements": [
+        "DECIDUOUS",
+        "GRASS",
+        "MOUNTAIN",
+        "TREE",
+        "TREES"
+      ],
+      "elementCount": 5
+    }
+  ]
+}
